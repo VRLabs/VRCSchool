@@ -1,0 +1,390 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+/* This should be added to the docusaurus.config.js in order to show some notion things correctly.
+See the option: --css-output-directory 
+See the docusaurus docs: https://docusaurus.io/docs/styling-layout
+See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-notion-sample-site/blob/main/docusaurus.config.js
+*/
+
+/* Copied from
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L934
+    and
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L1063
+*/
+.notion-column {
+  display: flex;
+  flex-direction: column;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.notion-column > *:first-child {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.notion-column > *:last-child {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.notion-row {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+}
+
+@media (max-width: 640px) {
+  .notion-row {
+    flex-direction: column;
+  }
+
+  .notion-row .notion-column {
+    width: 100% !important;
+  }
+
+  .notion-row .notion-spacer {
+    display: none;
+  }
+}
+
+.notion-spacer {
+  /* This matches the value in ColumnTransformer.ts */
+  width: calc(min(32px, 4vw));
+}
+
+.notion-spacer:last-child {
+  display: none;
+}
+/* End copied from NotionX */
+/* This should be added to the docusaurus.config.js in order to show some notion things correctly.
+See the option: --css-output-directory 
+See the docusaurus docs: https://docusaurus.io/docs/styling-layout
+See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-notion-sample-site/blob/main/docusaurus.config.js
+*/
+
+/* Copied from
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L934
+    and
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L1063
+*/
+.notion-column {
+  display: flex;
+  flex-direction: column;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.notion-column > *:first-child {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.notion-column > *:last-child {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.notion-row {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+}
+
+@media (max-width: 640px) {
+  .notion-row {
+    flex-direction: column;
+  }
+
+  .notion-row .notion-column {
+    width: 100% !important;
+  }
+
+  .notion-row .notion-spacer {
+    display: none;
+  }
+}
+
+.notion-spacer {
+  /* This matches the value in ColumnTransformer.ts */
+  width: calc(min(32px, 4vw));
+}
+
+.notion-spacer:last-child {
+  display: none;
+}
+/* End copied from NotionX */
+/* This should be added to the docusaurus.config.js in order to show some notion things correctly.
+See the option: --css-output-directory 
+See the docusaurus docs: https://docusaurus.io/docs/styling-layout
+See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-notion-sample-site/blob/main/docusaurus.config.js
+*/
+
+/* Copied from
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L934
+    and
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L1063
+*/
+.notion-column {
+  display: flex;
+  flex-direction: column;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.notion-column > *:first-child {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.notion-column > *:last-child {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.notion-row {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+}
+
+@media (max-width: 640px) {
+  .notion-row {
+    flex-direction: column;
+  }
+
+  .notion-row .notion-column {
+    width: 100% !important;
+  }
+
+  .notion-row .notion-spacer {
+    display: none;
+  }
+}
+
+.notion-spacer {
+  /* This matches the value in ColumnTransformer.ts */
+  width: calc(min(32px, 4vw));
+}
+
+.notion-spacer:last-child {
+  display: none;
+}
+/* End copied from NotionX */
+/* This should be added to the docusaurus.config.js in order to show some notion things correctly.
+See the option: --css-output-directory 
+See the docusaurus docs: https://docusaurus.io/docs/styling-layout
+See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-notion-sample-site/blob/main/docusaurus.config.js
+*/
+
+/* Copied from
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L934
+    and
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L1063
+*/
+.notion-column {
+  display: flex;
+  flex-direction: column;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.notion-column > *:first-child {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.notion-column > *:last-child {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.notion-row {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+}
+
+@media (max-width: 640px) {
+  .notion-row {
+    flex-direction: column;
+  }
+
+  .notion-row .notion-column {
+    width: 100% !important;
+  }
+
+  .notion-row .notion-spacer {
+    display: none;
+  }
+}
+
+.notion-spacer {
+  /* This matches the value in ColumnTransformer.ts */
+  width: calc(min(32px, 4vw));
+}
+
+.notion-spacer:last-child {
+  display: none;
+}
+/* End copied from NotionX */
+/* This should be added to the docusaurus.config.js in order to show some notion things correctly.
+See the option: --css-output-directory 
+See the docusaurus docs: https://docusaurus.io/docs/styling-layout
+See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-notion-sample-site/blob/main/docusaurus.config.js
+*/
+
+/* Copied from
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L934
+    and
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L1063
+*/
+.notion-column {
+  display: flex;
+  flex-direction: column;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.notion-column > *:first-child {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.notion-column > *:last-child {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.notion-row {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+}
+
+@media (max-width: 640px) {
+  .notion-row {
+    flex-direction: column;
+  }
+
+  .notion-row .notion-column {
+    width: 100% !important;
+  }
+
+  .notion-row .notion-spacer {
+    display: none;
+  }
+}
+
+.notion-spacer {
+  /* This matches the value in ColumnTransformer.ts */
+  width: calc(min(32px, 4vw));
+}
+
+.notion-spacer:last-child {
+  display: none;
+}
+/* End copied from NotionX */
+/* This should be added to the docusaurus.config.js in order to show some notion things correctly.
+See the option: --css-output-directory 
+See the docusaurus docs: https://docusaurus.io/docs/styling-layout
+See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-notion-sample-site/blob/main/docusaurus.config.js
+*/
+
+/* Copied from
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L934
+    and
+    https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L1063
+*/
+.notion-column {
+  display: flex;
+  flex-direction: column;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.notion-column > *:first-child {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.notion-column > *:last-child {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.notion-row {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+}
+
+@media (max-width: 640px) {
+  .notion-row {
+    flex-direction: column;
+  }
+
+  .notion-row .notion-column {
+    width: 100% !important;
+  }
+
+  .notion-row .notion-spacer {
+    display: none;
+  }
+}
+
+.notion-spacer {
+  /* This matches the value in ColumnTransformer.ts */
+  width: calc(min(32px, 4vw));
+}
+
+.notion-spacer:last-child {
+  display: none;
+}
+/* End copied from NotionX */
