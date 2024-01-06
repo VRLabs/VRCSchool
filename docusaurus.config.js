@@ -117,7 +117,7 @@ const config = {
                 href: 'https://discordapp.com/invite/sleightly'
               },
               {
-                label: 'GumRoad',
+                label: 'Gumroad',
                 href: 'https://justsleightly.gumroad.com/'
               },
               {
