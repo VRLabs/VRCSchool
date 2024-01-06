@@ -72,7 +72,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'sideBar',
             position: 'left',
-            label: 'Sidebar',
+            label: 'Docs',
           },
           {
             href: 'https://github.com/VRLabs/VRCSchool',
@@ -85,46 +85,58 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'VRLabs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Website',
+                href: 'https://vrlabs.dev'
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/invite/VRLabs'
+              },
+              {
+                label: 'Github',
+                href: 'https://github.com/VRLabs'
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/VRLabs'
+              }
+            ],
+          },
+          {
+            title: 'JustSleightly',
+            items: [
+              {
+                label: 'Links',
+                href: 'https://links.sleightly.dev/'
               },
+              {
+                label: 'Discord',
+                href: 'https://discordapp.com/invite/sleightly'
+              },
+              {
+                label: 'GumRoad',
+                href: 'https://justsleightly.gumroad.com/'
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/SleightlyDev'
+              }
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/VRLabs/VRCSchool',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} VRLabs, Inc  & JustSleightly. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

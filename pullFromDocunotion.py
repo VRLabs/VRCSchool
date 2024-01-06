@@ -57,8 +57,8 @@ def process_dir(dir_path):
                     f.write(new_contents)
 
 if __name__ == '__main__':
-    if os.path.exists("docs"):
-        shutil.rmtree("docs")
+    if os.path.exists("./docs"):
+        shutil.rmtree("./docs")
     subprocess.run(["npx.cmd", "@sillsdev/docu-notion", "-n", token, "-r", pageId])
     process_dir("docs")
     subprocess.run(["npm.cmd", "install"])
