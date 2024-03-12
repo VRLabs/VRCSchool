@@ -26,7 +26,7 @@ module.exports = function (context, options) {
           }).map(file => {
             return {
               title: file.split("\r\n")[1].replace("title: ", ""),
-              slug: file.split("\r\n")[3].replace("slug: ", "")
+              slug:  dirName.replace(docsDir, "") + '/' + file.split("\r\n")[3].replace("slug: ", "")
             }
           })
         }
