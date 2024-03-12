@@ -21,7 +21,9 @@ module.exports = function (context, options) {
           let fileContent = await Promise.all(
               files.map(filePath => readfile(filePath))
           )
-          return fileContent.map(file => {
+          return fileContent.sort((file1, file2) => {
+           return parseInt(file1.split("\r\n")[2].replace("sidebar_position: ", "")) - parseInt(file2.split("\r\n")[2].replace("sidebar_position: ", ""))
+          }).map(file => {
             return {
               title: file.split("\r\n")[1].replace("title: ", ""),
               slug: file.split("\r\n")[3].replace("slug: ", "")
