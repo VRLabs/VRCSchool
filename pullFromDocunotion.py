@@ -16,7 +16,7 @@ def transform_markdown(text, folderName):
     new_text = re.sub(r"contributors: (.*)\n---\n", r"contributors: \1\n---\nContributors: \1\n", new_text)
     new_text = re.sub(r"Contributors: \"(.*)\"\n", r"Contributors: \1\n", new_text)
     dateString = datetime.strptime(new_text.splitlines()[4].replace("last_edited: ", ""), '%Y-%m-%dT%H:%M:%S.%fZ').strftime("%d %B %Y %H:%M:%S")
-    new_text = new_text + f"---\n<RightAlignedText>Last Updated: { dateString }</RightAlignedText>"
+    new_text = new_text + f"\n\n---\n<RightAlignedText>Last Updated: { dateString }</RightAlignedText>"
     return new_text
 
 def process_dir(dir_path):
