@@ -389,6 +389,6 @@ See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-not
 }
 /* End copied from NotionX */
 .container{
-  margin-left: 100px;
+  padding-left: 100px;
   max-width: 100%;
 }
