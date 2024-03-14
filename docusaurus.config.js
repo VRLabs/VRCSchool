@@ -107,7 +107,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/VRLabs'
+                href: 'https://discord.vrlabs.dev'
               },
               {
                 label: 'Github',
@@ -128,15 +128,15 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/sleightly'
+                href: 'https://discord.sleightly.dev'
               },
               {
                 label: 'Gumroad',
-                href: 'https://justsleightly.gumroad.com/'
+                href: 'https://store.sleightly.dev'
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/SleightlyDev'
+                href: 'https://twitter.sleightly.dev'
               }
             ],
           },
