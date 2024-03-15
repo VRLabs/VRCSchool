@@ -18,7 +18,7 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -388,7 +388,11 @@ See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-not
   display: none;
 }
 /* End copied from NotionX */
-.container{
-  margin-left: 100px;
+.container {
   max-width: 100%;
+}
+
+.row {
+  margin-left: auto;
+  margin-right: auto;
 }
