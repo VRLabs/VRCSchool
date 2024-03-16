@@ -13,7 +13,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'VRC School',
   tagline: 'Everything you need to know about VRC Avatars',
-  favicon: 'img/favicon.ico', // TODO REPLACE
+  favicon: 'img/favicon.svg',
 
   plugins: [path.resolve(__dirname, 'src/plugins/gather-files.js')],
 
@@ -79,7 +79,7 @@ const config = {
         title: 'VRC School',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.svg',
         },
         items: [
           {
