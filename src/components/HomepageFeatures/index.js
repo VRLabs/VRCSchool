@@ -8,11 +8,11 @@ const FileList = (args) => {
   const globalData = useGlobalData();
   console.log(globalData)
   const files = globalData['gather-files'];
-    console.log(args)
-    const val = parseInt(args["i"])
-    if (!files || !files.default || !files.default[val] || files.default[val].some(x => !x)){
-        return <></>
-    }
+  console.log(args)
+  const val = parseInt(args["i"])
+  if (!files || !files.default || !files.default[val] || files.default[val].some(x => !x)) {
+    return <></>
+  }
   return (
     <ul>
       {files.default[val].map((file) => (
@@ -26,29 +26,29 @@ const FileList = (args) => {
 const FeatureList = [
   {
     title: 'Unity Animation',
-    img: require('@site/static/img/unity.png').default,
+    img: require('@site/static/img/unity.webp').default,
     description: (
-        <FileList i = "0"/>
+      <FileList i="0" />
     ),
   },
   {
     title: 'Avatar 3.0',
-    img: require('@site/static/img/avatars.png').default,
+    img: require('@site/static/img/avatar.webp').default,
     description: (
-        <FileList i = "1"/>
+      <FileList i="1" />
     ),
   },
   {
     title: 'Other',
-    img: require('@site/static/img/other.png').default,
+    img: require('@site/static/img/other.webp').default,
     description: (
-        <FileList i = "2"/>
+      <FileList i="2" />
     ),
   },
 ];
 
 
-function Feature({img, title, description}) {
+function Feature({ img, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

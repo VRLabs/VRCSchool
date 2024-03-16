@@ -396,3 +396,8 @@ See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-not
   margin-left: auto;
   margin-right: auto;
 }
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
