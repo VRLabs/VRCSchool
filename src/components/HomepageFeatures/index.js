@@ -14,7 +14,7 @@ const FileList = (args) => {
     return <></>
   }
   return (
-    <ul>
+    <ul className="fileList">
       {files.default[val].map((file) => (
         <li><a href={`./docs${file.slug}`}>{file.title}</a></li>
       ))}

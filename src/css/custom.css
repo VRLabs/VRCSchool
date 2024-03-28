@@ -97,7 +97,7 @@ See the use in the docu-notion-sample-site: https://github.com/sillsdev/docu-not
   margin-right: auto;
 }
 
-ul {
+ul.fileList {
   list-style: none;
   padding-left: 0;
 }
