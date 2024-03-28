@@ -12,7 +12,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'VRC School',
-  tagline: 'Everything you need to know to make VRChat Avatars',
+  tagline: 'Everything you need to know to make VRChat Avatar Systems',
   favicon: 'img/favicon.svg',
 
   plugins: [path.resolve(__dirname, 'src/plugins/gather-files.js')],
