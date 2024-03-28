@@ -103,5 +103,5 @@ ul.fileList {
 }
 
 .footer__col {
-  padding-left: 15.5%; /*magic number? Maybe. shut up.*/
+  text-align: center;
 }
