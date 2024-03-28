@@ -101,3 +101,7 @@ ul.fileList {
   list-style: none;
   padding-left: 0;
 }
+
+.footer__col {
+  padding-left: 15.5%; /*magic number? Maybe. shut up.*/
+}
