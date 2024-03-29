@@ -30,10 +30,24 @@ def process_dir(dir_path):
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write(new_contents)
 
+def execute(cmd):
+    popen = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    for stdout_line in iter(popen.stdout.readline, ""):
+        yield stdout_line
+    for stdout_line in iter(popen.stderr.readline, ""):
+        yield stdout_line
+    popen.stdout.close()
+    popen.wait()
+
 if __name__ == '__main__':
     if os.path.exists("./docs"):
         shutil.rmtree("./docs")
-    subprocess.run(["npx.cmd", "@sillsdev/docu-notion", "-n", token, "-r", pageId])
+    result = execute(["npm.cmd", "run",  "--prefix", r"C:\Users\jelle\Desktop\School\Projects\GeKut\docu-notion", "ts", "--", "-n", token, "-r", pageId]) #Cloned from https://github.com/jellejurre/docu-notion
+    [print(x, end='') for x in result]
+    while any("error" in x.lower() for x in result):
+        result = execute(["npm.cmd", "run",  "--prefix", r"C:\Users\jelle\Desktop\School\Projects\GeKut\docu-notion", "ts", "--", "-n", token, "-r", pageId])  # Cloned from https://github.com/jellejurre/docu-notion
+        [print(x, end='') for x in result]
+    shutil.copytree(r"C:\Users\jelle\Desktop\School\Projects\GeKut\docu-notion\docs", r".\docs")
     process_dir("docs")
     subprocess.run(["npm.cmd", "install"])
     subprocess.run(["npm.cmd", "start"])
