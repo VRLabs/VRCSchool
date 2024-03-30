@@ -12,7 +12,7 @@ pageId="edbb0cd9d1c64a619d0be4bcffb58422"
 def transform_markdown(text, folderName):
     new_text = re.sub(r'\!\[([^\]]+)\]\(([^\)]+)\)', r'![\1](\2)<br/><GreyItalicText>\1</GreyItalicText>', text) #Image text
     new_text = new_text.replace("<ReactPlayer", "<ReactPlayer width='100%' height='auto' ")
-    new_text = re.sub(r"((?:-|[0-9].) .*)\n\n(-|[0-9].) ", r"\1\n\2 ", new_text)
+    new_text = re.sub(r"((?:-|[0-9].) .*)\n\n(?=-|[0-9])", r"\1\n", new_text)
     new_text = re.sub(r"contributors: (.*)\n---\n", r"contributors: \1\n---\nContributors: \1\n", new_text)
     new_text = re.sub(r"Contributors: \"(.*)\"\n", r"Contributors: \1\n", new_text)
     dateString = datetime.strptime(new_text.splitlines()[4].replace("last_edited: ", ""), '%Y-%m-%dT%H:%M:%S.%fZ').strftime("%d %B %Y %H:%M:%S")
