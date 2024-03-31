@@ -17,7 +17,7 @@ VRCSchool is a repository of useful Avatar 3.0 knowledge created by the combined
 
 It was originally made in Notion, but moved to docusaurus to make it open source and encourage community contribution.
 
-Spot any issues or want to contribute? feel free to open a PR!
+Spot any issues or want to contribute? Feel free to open a PR!
 
 If you want to add new pages, it is recommended to ask one of maintainers if the page would fit VRCSchool first.
 
