@@ -6,9 +6,8 @@ import os
 import shutil
 import re
 
-token="secret_4pX9nCwWBbrBARrMTXJJGRMHVxVh4izsJqNlnuvN9uv"
-pageId="edbb0cd9d1c64a619d0be4bcffb58422"
-
+token=os.environ['NOTION_TOKEN']
+pageId=os.environ['NOTION_PAGEID']
 def transform_markdown(text, folderName):
     new_text = re.sub(r'\!\[([^\]]+)\]\(([^\)]+)\)', r'![\1](\2)<br/><GreyItalicText>\1</GreyItalicText>', text) #Image text
     new_text = new_text.replace("<ReactPlayer", "<ReactPlayer width='100%' height='auto' ")
