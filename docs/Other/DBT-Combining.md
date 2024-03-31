@@ -36,7 +36,7 @@ The structure and functionality of a Direct Blend Tree is very similar to that o
 
 :::caution
 
-There are a few key differences between the two which heavily limit the use cases and implementations of Direct Blend Trees compared to Animator Controllers. More info can be found in the [Current Limitations And Known Issues](/0aeabfcec3b74d348187dac2396321ab#5a5953728db04478bf7358a30deff360) section.
+There are a few key differences between the two which heavily limit the use cases and implementations of Direct Blend Trees compared to Animator Controllers. More info can be found in the Current Limitations And Known Issues section.
 
 :::
 
