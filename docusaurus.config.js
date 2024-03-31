@@ -131,7 +131,7 @@ const config = {
                 href: 'https://discord.sleightly.dev'
               },
               {
-                label: 'Gumroad',
+                label: 'Store',
                 href: 'https://store.sleightly.dev'
               },
               {
