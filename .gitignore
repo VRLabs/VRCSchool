@@ -1,0 +1,4 @@
+.idea/
+.docusaurus
+.env
+node_modules/
