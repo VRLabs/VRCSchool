@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <Layout
       title={``}
-      description="Description will go into a meta tag in <head />">
+      description="Everything you need to know to make VRChat Avatar Systems">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
