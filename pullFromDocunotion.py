@@ -8,6 +8,7 @@ import re
 
 token=os.environ['NOTION_TOKEN']
 pageId=os.environ['NOTION_PAGEID']
+docunotionPath = os.environ['NOTION_DOCUNOTION_PATH']
 def transform_markdown(text, folderName):
     new_text = re.sub(r'\!\[([^\]]+)\]\(([^\)]+)\)', r'![\1](\2)<br/><GreyItalicText>\1</GreyItalicText>', text) #Image text
     new_text = new_text.replace("<ReactPlayer", "<ReactPlayer width='100%' height='auto' ")
@@ -41,19 +42,19 @@ def execute(cmd):
 if __name__ == '__main__':
     if os.path.exists("./docs"):
         shutil.rmtree("./docs")
-    result = execute(["npm.cmd", "run",  "--prefix", r"C:\Users\jelle\Desktop\School\Projects\GeKut\docu-notion", "ts", "--", "-n", token, "-r", pageId]) #Cloned from https://github.com/jellejurre/docu-notion
+    result = execute(["npm.cmd", "run",  "--prefix", docunotionPath, "ts", "--", "-n", token, "-r", pageId]) #Cloned from https://github.com/jellejurre/docu-notion
     resultList = []
     for r in result:
         print(r, end='')
         resultList.append(r)
     result = list(result)
     while any("error" in x.lower() for x in resultList):
-        result = execute(["npm.cmd", "run",  "--prefix", r"C:\Users\jelle\Desktop\School\Projects\GeKut\docu-notion", "ts", "--", "-n", token, "-r", pageId])  # Cloned from https://github.com/jellejurre/docu-notion
+        result = execute(["npm.cmd", "run",  "--prefix", docunotionPath, "ts", "--", "-n", token, "-r", pageId])  # Cloned from https://github.com/jellejurre/docu-notion
         resultList = []
         for r in result:
             print(r, end='')
             resultList.append(r)
-    shutil.copytree(r"C:\Users\jelle\Desktop\School\Projects\GeKut\docu-notion\docs", r".\docs")
+    shutil.copytree(docunotionPath + r"\docs", r".\docs")
     process_dir("docs")
     subprocess.run(["npm.cmd", "install"])
     subprocess.run(["npm.cmd", "start"])
