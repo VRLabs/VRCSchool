@@ -77,7 +77,6 @@ const config = {
         { name: 'og:title', content: 'VRC School' },
         { name: 'og:type', content: 'website'},
         { name: 'og:url', content: 'https://vrc.school'},
-        { name: 'og:image', content: 'https://raw.githubusercontent.com/VRLabs/VRCSchool/main/static/img/embed.png'},
         { name: 'og:description', content: 'Everything you need to know to make VRChat Avatar Systems'},
         { name: 'theme-color', content: '#308BF2'}
       ],
