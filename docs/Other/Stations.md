@@ -2,7 +2,7 @@
 title: Stations
 sidebar_position: 6
 slug: Stations
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2024-04-01T08:38:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -20,7 +20,7 @@ Stations (also knows as “seats”) allow other users to sit on certain places 
 
 
 
-Once the other user is sitting in your Station, you can use an Animator Controller to change their avatar. By default VRChat will play a default sitting animation when seated in a station. Players can (by default) leave a station by moving while inside the station.
+Once the other user is sitting in your Station, you can use an Animator Controller to manipulate their avatar, including playing animations and running parameter drivers. By default VRChat will play a default sitting animation when seated in a station. Players can (by default) leave a station by moving while inside the station.
 
 
 
@@ -67,4 +67,4 @@ Stations are generally used in worlds, and rarely see use on avatars, mainly as 
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 01 April 2024 08:38:00</RightAlignedText>
