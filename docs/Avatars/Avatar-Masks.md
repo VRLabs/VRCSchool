@@ -2,7 +2,7 @@
 title: Avatar Masks
 sidebar_position: 17
 slug: Avatar-Masks
-last_edited: 2024-04-01T13:51:00.000Z
+last_edited: 2024-04-01T14:45:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -182,7 +182,7 @@ If the first layer mask is empty, it will create a default mask that disables al
 
 :::caution
 
-If you are using WD off and want to animate a transform on Gesture, you will need to make a top layer FX mask which disallows all humanoid muscles, and disables all trasnforms which you animate in Gesture. For this reason, it is easier to animate transforms in Gesture, even though this goes against what VRChat says, since you don’t have to do any masking.
+If you are using WD off and want to animate a transform on Gesture, you will need to make a top layer FX mask which disallows all humanoid muscles, and disables all transforms which you animate in Gesture. For this reason, it is easier to animate transforms in FX, even though this goes against what VRChat says, since you don’t have to do any masking on FX if there are no transform animations on Gesture.
 
 :::
 
@@ -230,4 +230,4 @@ It is used like Action, where it should override all humanoid animations to make
 
 
 ---
-<RightAlignedText>Last Updated: 01 April 2024 13:51:00</RightAlignedText>
+<RightAlignedText>Last Updated: 01 April 2024 14:45:00</RightAlignedText>

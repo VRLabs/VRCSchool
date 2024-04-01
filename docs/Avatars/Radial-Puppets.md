@@ -60,7 +60,7 @@ The whole process, from start to finish, is shown here:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-<ReactPlayer width='100%' height='auto'  controls url="https://prod-files-secure.s3.us-west-2.amazonaws.com/8e670445-539f-4c92-8851-1bb8b0e71c7b/9fb65777-13a3-478f-a697-a776cd1f679b/2023-09-21_00-14-05.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240401T141158Z&X-Amz-Expires=3600&X-Amz-Signature=475f6d054fe4c28c7d0bdd2be5136cfa74c1c4dca83de2776e7ac9ebab26cc79&X-Amz-SignedHeaders=host&x-id=GetObject" />
+<ReactPlayer width='100%' height='auto'  controls url="https://prod-files-secure.s3.us-west-2.amazonaws.com/8e670445-539f-4c92-8851-1bb8b0e71c7b/9fb65777-13a3-478f-a697-a776cd1f679b/2023-09-21_00-14-05.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240401T151128Z&X-Amz-Expires=3600&X-Amz-Signature=089857bdaa494ef61f64dcc2e913be6093c06d713fdd605c2f1aa6404e68a533&X-Amz-SignedHeaders=host&x-id=GetObject" />
 
 
 </div><div className='notion-spacer'></div>
@@ -102,7 +102,7 @@ The whole process, from start to finish, is shown here:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-<ReactPlayer width='100%' height='auto'  controls url="https://prod-files-secure.s3.us-west-2.amazonaws.com/8e670445-539f-4c92-8851-1bb8b0e71c7b/7e1bf72b-3b60-43be-95ed-7244f553b998/2023-09-21_00-22-27.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240401T141202Z&X-Amz-Expires=3600&X-Amz-Signature=a47cb6a488011882d5e59bdf416a5d9d9b0e4879a8aff4e9ac71c1af6d42bea3&X-Amz-SignedHeaders=host&x-id=GetObject" />
+<ReactPlayer width='100%' height='auto'  controls url="https://prod-files-secure.s3.us-west-2.amazonaws.com/8e670445-539f-4c92-8851-1bb8b0e71c7b/7e1bf72b-3b60-43be-95ed-7244f553b998/2023-09-21_00-22-27.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240401T151131Z&X-Amz-Expires=3600&X-Amz-Signature=6066cb0b29f9ce456f55264c59439918355a68aa5156946826f60608a599e3a4&X-Amz-SignedHeaders=host&x-id=GetObject" />
 
 
 </div><div className='notion-spacer'></div>
@@ -274,7 +274,7 @@ The whole process, from start to finish, is shown here. As the result, the GameO
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-<ReactPlayer width='100%' height='auto'  controls url="https://prod-files-secure.s3.us-west-2.amazonaws.com/8e670445-539f-4c92-8851-1bb8b0e71c7b/5088a0ad-f4d6-40b9-bfb7-162038919656/2023-09-21_00-48-33.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240401T141214Z&X-Amz-Expires=3600&X-Amz-Signature=e771ea9c1c5ebbe7f1e84e02267e9969366499c7cfcd40a52789b6471e9c976d&X-Amz-SignedHeaders=host&x-id=GetObject" />
+<ReactPlayer width='100%' height='auto'  controls url="https://prod-files-secure.s3.us-west-2.amazonaws.com/8e670445-539f-4c92-8851-1bb8b0e71c7b/5088a0ad-f4d6-40b9-bfb7-162038919656/2023-09-21_00-48-33.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240401T151144Z&X-Amz-Expires=3600&X-Amz-Signature=debdf82f85520317a8ca13fdfb8b4e372ee89ebedd04e6c3fa1853d2731ce9d5&X-Amz-SignedHeaders=host&x-id=GetObject" />
 
 
 </div><div className='notion-spacer'></div>
