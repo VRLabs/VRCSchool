@@ -82,8 +82,7 @@ const config = {
         { name: 'theme-color', content: '#308BF2'}
       ],
 
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg', //TODO REPLACE
+      image: 'img/embed.png',
       navbar: {
         title: 'VRC School',
         logo: {
