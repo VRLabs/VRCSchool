@@ -2,7 +2,7 @@
 title: Built-In VRC Parameters
 sidebar_position: 14
 slug: VRC-Parameters
-last_edited: 2024-04-01T08:39:00.000Z
+last_edited: 2024-04-01T11:16:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -83,4 +83,4 @@ There are three sync types:
 
 
 ---
-<RightAlignedText>Last Updated: 01 April 2024 08:39:00</RightAlignedText>
+<RightAlignedText>Last Updated: 01 April 2024 11:16:00</RightAlignedText>
