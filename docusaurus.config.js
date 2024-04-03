@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/VRLabs'
+                href: 'https://twitter.com/vrlabsdev'
               }
             ],
           },
