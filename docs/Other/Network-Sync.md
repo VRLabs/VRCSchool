@@ -2,7 +2,7 @@
 title: Network Sync
 sidebar_position: 0
 slug: Network-Sync
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2024-04-03T08:05:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -119,7 +119,7 @@ An example of this can be seen on the right, where the local side processes all 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![An example late join synced system.](./853423869.png)<br/><GreyItalicText>An example late join synced system.</GreyItalicText>
+![An example late join synced system.](./634370300.png)<br/><GreyItalicText>An example late join synced system.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -140,4 +140,4 @@ This can be remedied by using one of VRLabs’ Sync packages. Right now the only
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 03 April 2024 08:05:00</RightAlignedText>
