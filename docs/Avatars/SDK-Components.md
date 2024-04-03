@@ -2,7 +2,7 @@
 title: VRChat Avatar SDK Components
 sidebar_position: 2
 slug: SDK-Components
-last_edited: 2024-03-31T09:37:00.000Z
+last_edited: 2024-04-02T22:17:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -181,7 +181,7 @@ More information in Stations can be found on the [Stations](/docs/Other/Stations
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-Head Chop is a new component (added in March of 2023) that allows player to selectively scale certain parts of their head up and down.
+Head Chop is a new component (added in March of 2024) that allows player to selectively scale certain parts of their head up and down.
 
 
 
@@ -225,4 +225,4 @@ VRC State Behaviours (for example: Parameter Drivers, Tracking Control) are tool
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 09:37:00</RightAlignedText>
+<RightAlignedText>Last Updated: 02 April 2024 22:17:00</RightAlignedText>
