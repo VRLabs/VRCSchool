@@ -2,10 +2,10 @@
 title: Combining Layers Using Direct Blend Trees
 sidebar_position: 2
 slug: DBT-Combining
-last_edited: 2024-03-31T22:52:00.000Z
-contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
+last_edited: 2024-04-02T21:47:00.000Z
+contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/), [hfcred](http://hfcred.carrd.co/)"
 ---
-Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
+Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/), [hfcred](http://hfcred.carrd.co/)
 
 
 
@@ -438,4 +438,4 @@ These effects and how to achieve them can be found in the [Advanced Blend Tree T
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 22:52:00</RightAlignedText>
+<RightAlignedText>Last Updated: 02 April 2024 21:47:00</RightAlignedText>
