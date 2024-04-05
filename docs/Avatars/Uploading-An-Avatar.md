@@ -413,7 +413,7 @@ These will usually be described on the avatar’s website or purchase receipt. S
 
 
 - **Poiyomi Toon Shader**: This is the most popular shader in the western market, and can be downloaded [Here](https://github.com/poiyomi/PoiyomiToonShader).
-- **Dynamic Bones**: Older packages might use this, as it’s the predecessor to Phys Bones. You can use the VRLabs Dyamic Bone Stub, downloadable from [Here](https://github.com/VRLabs/Dynamic-Bones-Stub) (although this won’t work in your Editor), or purchase the Dynamic Bone package [Here](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743).
+- **Dynamic Bones**: Older packages might use this, as it’s the predecessor to Phys Bones. You can use the VRLabs Dynamic Bones Stub, downloadable from [Here](https://github.com/VRLabs/Dynamic-Bones-Stub) (the components will not work inside the Unity Editor, but will work in game), or purchase the Dynamic Bone package [Here](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743).
 - **Poiyomi Pro Shader**: This is a more advanced version of Poiyomi Toon, which has access to more of the features. To download it, you need to be a patron of Poiyomi, join their discord server, and download the package from there. You can become their patron [Here](https://www.patreon.com/poiyomi/posts).
 - **Gogo Loco**: Gogo Loco is a movement system that has more features than the default VRChat movement system. It can be downloaded [Here](https://franadavrc.gumroad.com/l/gogoloco).
 - **VRC Fury**: VRC Fury is a non-destructive avatar build system. It can be downloaded [Here](https://vrcfury.com/download).
