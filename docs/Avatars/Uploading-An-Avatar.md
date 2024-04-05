@@ -2,7 +2,7 @@
 title: Uploading an Avatar in 3.0
 sidebar_position: 1
 slug: Uploading-An-Avatar
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2024-04-05T07:56:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -660,4 +660,4 @@ In the Builder tab:
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 05 April 2024 07:56:00</RightAlignedText>
