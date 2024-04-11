@@ -15,7 +15,7 @@ const config = {
   tagline: 'Everything you need to know to make VRChat Avatar Systems',
   favicon: 'img/favicon.svg',
 
-  plugins: [path.resolve(__dirname, 'src/plugins/gather-files.js')],
+  plugins: [path.resolve(__dirname, 'src/plugins/gather-files.js'), 'plugin-image-zoom'],
 
   // Set the production url of your site here
   url: 'https://vrc.school/',
@@ -166,6 +166,15 @@ const config = {
       tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 5,
+      },
+      imageZoom: {
+        // CSS selector to apply the plugin to, defaults to '.markdown img'
+        selector: '.markdown img',
+        // Optional medium-zoom options
+        // see: https://www.npmjs.com/package/medium-zoom#options
+        options: {
+          background: '#0D0D0D',
+        },
       },
     }),
 };
