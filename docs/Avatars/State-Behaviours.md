@@ -2,7 +2,7 @@
 title: VRC State Behaviours
 sidebar_position: 16
 slug: State-Behaviours
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2024-05-02T22:25:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -13,6 +13,15 @@ Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc
 
 
 The VRChat SDK includes a few State Behaviours. State Behaviours are small Scripts which you can put on Animator States to perform an action once the Animator State has been entered. They can be added to a state by clicking the `Add Behaviour` button in the State’s Inspector and clicking on the right one, and they can be removed by, clicking `Right Click` → `Remove` on the name of the State Behaviour.
+
+
+:::caution
+
+Contary to what Unity’s documentation says: State Behaviours still run even when the layer’s weight is set to 0.
+
+:::
+
+
 
 
 Note: every State Behaviour has a `Debug String` field. The string put in this field gets logged to the Logs whenever this State Behaviour runs. I won’t elaborate on these in the specific State Behaviour sections.
@@ -514,4 +523,4 @@ Fields:
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 02 May 2024 22:25:00</RightAlignedText>

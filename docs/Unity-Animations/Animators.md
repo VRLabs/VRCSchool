@@ -2,7 +2,7 @@
 title: Animators
 sidebar_position: 1
 slug: Animators
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2024-04-11T09:20:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -278,4 +278,4 @@ In VRChat, this setting gets set to Always Animate on the local avatar Animator,
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 11 April 2024 09:20:00</RightAlignedText>
