@@ -2,7 +2,7 @@
 title: VRC State Behaviours
 sidebar_position: 16
 slug: State-Behaviours
-last_edited: 2024-05-02T22:25:00.000Z
+last_edited: 2024-05-04T22:03:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -17,7 +17,7 @@ The VRChat SDK includes a few State Behaviours. State Behaviours are small Scrip
 
 :::caution
 
-Contary to what Unity’s documentation says: State Behaviours still run even when the layer’s weight is set to 0.
+Contrary to what Unity’s documentation says: State Behaviours still run even when the layer’s weight is set to 0.
 
 :::
 
@@ -523,4 +523,4 @@ Fields:
 
 
 ---
-<RightAlignedText>Last Updated: 02 May 2024 22:25:00</RightAlignedText>
+<RightAlignedText>Last Updated: 04 May 2024 22:03:00</RightAlignedText>

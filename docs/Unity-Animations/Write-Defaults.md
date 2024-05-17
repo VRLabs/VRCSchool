@@ -2,7 +2,7 @@
 title: Write Defaults
 sidebar_position: 7
 slug: Write-Defaults
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2024-05-17T14:14:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -82,7 +82,7 @@ In the case of `Write Defaults On`:
 
 
 - When going to the Hat On state, the hat would toggle on
-- When going back to the Hat Off state, the hat would toggle off (since that is the default state being _written back_)
+- When going back to the Empty state, the hat would toggle off (since that is the default state being _written back_)
 
 </div><div className='notion-spacer'></div>
 
@@ -93,7 +93,7 @@ In the case of `Write Defaults Off`:
 
 
 - When going to the Hat On state, the hat would toggle on
-- When going to the Hat Off state, the hat would stay toggled on (since you’re not explicitly toggling it back off or _writing back the default_)
+- When going to the Empty state, the hat would stay toggled on (since you’re not explicitly toggling it back off or _writing back the default_)
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -279,4 +279,4 @@ This issue is a bit more finnickey and less clear than the rest, so don’t take
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 17 May 2024 14:14:00</RightAlignedText>
