@@ -1,6 +1,6 @@
 ---
 title: Combining Layers Using Direct Blend Trees
-sidebar_position: 2
+sidebar_position: 3
 slug: DBT-Combining
 last_edited: 2024-04-02T21:47:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/), [hfcred](http://hfcred.carrd.co/)"

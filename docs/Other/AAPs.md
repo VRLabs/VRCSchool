@@ -1,6 +1,6 @@
 ---
 title: Animated Animator Parameters (AAP)
-sidebar_position: 4
+sidebar_position: 5
 slug: AAPs
 last_edited: 2024-03-31T08:54:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"

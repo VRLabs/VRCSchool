@@ -1,6 +1,6 @@
 ---
 title: Sub-Animator Techniques
-sidebar_position: 7
+sidebar_position: 8
 slug: Sub-Animator
 last_edited: 2024-03-31T08:54:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"

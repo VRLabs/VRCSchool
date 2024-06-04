@@ -1,6 +1,6 @@
 ---
 title: Stations
-sidebar_position: 6
+sidebar_position: 7
 slug: Stations
 last_edited: 2024-04-05T09:56:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/), [Tohru](https://vrchat.com/home/user/usr_c0fc02b2-ca09-4e34-bb39-09b7eed2838a)"

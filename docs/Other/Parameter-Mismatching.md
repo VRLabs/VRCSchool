@@ -1,6 +1,6 @@
 ---
 title: Expression Parameter Mismatching
-sidebar_position: 1
+sidebar_position: 2
 slug: Parameter-Mismatching
 last_edited: 2024-03-31T08:54:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"

@@ -1,6 +1,6 @@
 ---
 title: Network Sync
-sidebar_position: 0
+sidebar_position: 1
 slug: Network-Sync
 last_edited: 2024-04-03T08:05:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"

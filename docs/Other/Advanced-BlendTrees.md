@@ -1,6 +1,6 @@
 ---
 title: Advanced Blend Tree Techniques
-sidebar_position: 3
+sidebar_position: 4
 slug: Advanced-BlendTrees
 last_edited: 2024-03-31T08:54:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
