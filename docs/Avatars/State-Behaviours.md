@@ -515,7 +515,8 @@ Fields:
 	- Parameter: Next clip is determined by an Int parameter. If the Int parameter is out of range, no clip is played.
 - **Random Volume**: On State Enter, can be used to set the Audio Source to a random volume (or a set one by having the min and max be the same). Can either be `Always Applied`, `Applied if Stopped`, or `Never Applied`, depending on the setting on the right.
 - **Random Pitch**: On State Enter, can be used to set the Audio Source to a random pitch (or a set one by having the min and max be the same). Can either be `Always Applied`, `Applied if Stopped`, or `Never Applied`, depending on the setting on the right.
-- **Random Volume**: On State Enter, can be used to set the Audio Source to loop or not. Can either be `Always Applied`, `Applied if Stopped`, or `Never Applied`, depending on the setting on the right.
+- **Random Volume**: On State Enter, can be used to set the Audio Source to a random volume (or a set one by having the min and max be the same). Can either be `Always Applied`, `Applied if Stopped`, or `Never Applied`, depending on the setting on the right.
+- **Loop**: On State Enter, can be used to set the Audio Source to loop or not. Can either be `Always Applied`, `Applied if Stopped`, or `Never Applied`, depending on the setting on the right.
 - **Stop On Enter**: Whether or not the current playing Audio Clip should be stopped upon entering the state.
 - **Start On Enter**: Whether or not the current selected Audio Clip should be started after the set delay in the `Play On Enter Delay` field after entering the state.
 - **Stop On Exit**: Whether or not the current playing Audio Clip should be stopped upon exiting the state.
@@ -523,4 +524,4 @@ Fields:
 
 
 ---
-<RightAlignedText>Last Updated: 04 May 2024 22:03:00</RightAlignedText>
+<RightAlignedText>Last Updated: 18 June 2024 11:32:05</RightAlignedText>
