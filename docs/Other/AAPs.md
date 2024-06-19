@@ -41,7 +41,7 @@ To make an Animated Animator Parameter:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![How to add an AAP for the Example AAP Float to the ExampleAAPAnimation clip](./1763506886.png)<br/><GreyItalicText>How to add an AAP for the Example AAP Float to the ExampleAAPAnimation clip</GreyItalicText>
+![How to add an AAP for the Example AAP Float to the ExampleAAPAnimation clip](./AAPs.13426936-8ad0-4223-8581-e77a489fe089.png)<br/><GreyItalicText>How to add an AAP for the Example AAP Float to the ExampleAAPAnimation clip</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -60,7 +60,7 @@ From here on, it behaves just like any other animated property, **except** for t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![In play mode, AAPs are greyed out and can’t be changed except for being animated, and therefore won’t be affected by PhysBones, Contact Receivers, or your Expressions Menus.](./621558397.png)<br/><GreyItalicText>In play mode, AAPs are greyed out and can’t be changed except for being animated, and therefore won’t be affected by PhysBones, Contact Receivers, or your Expressions Menus.</GreyItalicText>
+![In play mode, AAPs are greyed out and can’t be changed except for being animated, and therefore won’t be affected by PhysBones, Contact Receivers, or your Expressions Menus.](./AAPs.32afe3d1-d2d3-4cd4-83e6-b0828c9bab2c.png)<br/><GreyItalicText>In play mode, AAPs are greyed out and can’t be changed except for being animated, and therefore won’t be affected by PhysBones, Contact Receivers, or your Expressions Menus.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -122,7 +122,7 @@ For example, if the parameter value is 0.5, it will play the middle of the anima
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.9375)'}}>
 
 
-![An example of saving an AAP using a Motion Time animation clip](./1968578658.png)<br/><GreyItalicText>An example of saving an AAP using a Motion Time animation clip</GreyItalicText>
+![An example of saving an AAP using a Motion Time animation clip](./AAPs.fcf82438-4921-40af-9704-bccddfce1e3d.png)<br/><GreyItalicText>An example of saving an AAP using a Motion Time animation clip</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -183,7 +183,7 @@ As this uses Direct Blend Trees, don’t forget to make the state Write Defaults
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.9375)'}}>
 
 
-![An example of saving an AAP using a Direct Blend Tree](./1978833943.png)<br/><GreyItalicText>An example of saving an AAP using a Direct Blend Tree</GreyItalicText>
+![An example of saving an AAP using a Direct Blend Tree](./AAPs.62345cfe-e789-4fc9-8812-98d426bdc8be.png)<br/><GreyItalicText>An example of saving an AAP using a Direct Blend Tree</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -239,7 +239,7 @@ In the example on the right, if the parameter value is 0, it will play the avera
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1)'}}>
 
 
-![An example of saving an AAP using a 1D Blend Tree](./394012831.png)<br/><GreyItalicText>An example of saving an AAP using a 1D Blend Tree</GreyItalicText>
+![An example of saving an AAP using a 1D Blend Tree](./AAPs.a65ef0ac-ada1-495a-95ae-3ded3a16d887.png)<br/><GreyItalicText>An example of saving an AAP using a 1D Blend Tree</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

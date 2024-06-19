@@ -80,7 +80,7 @@ Very versatile for toggling whole branches of children, but may also not be the 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./796516937.png)
+![](./Types-Of-Animations.40de1cc5-fefd-4a05-83bb-ff641b450120.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -113,7 +113,7 @@ If animating Transform animations in **VRChat**, please refer to [Playable Layer
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1397667969.png)
+![](./Types-Of-Animations.d867d4cf-cb4d-4ae7-a110-1d4bcb4942c6.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -150,7 +150,7 @@ Component Properties can be animated as well! Examples include:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./795747168.png)
+![](./Types-Of-Animations.2e8b51bb-9b33-4628-9ed6-44e924f513db.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -192,7 +192,7 @@ Using Poiyomi Shader? Don’t forget to [mark your properties for Animation](htt
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1710446472.png)
+![](./Types-Of-Animations.b07b243e-1e82-46a2-889a-cc94e02f22f5.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -232,7 +232,7 @@ Since material swaps are object reference curves, they cannot be blended between
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./454003457.png)
+![](./Types-Of-Animations.b90cdcae-a16f-41f2-9922-73babb1c11e4.png)
 
 
 </div><div className='notion-spacer'></div>

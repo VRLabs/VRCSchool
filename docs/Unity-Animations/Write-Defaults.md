@@ -45,7 +45,7 @@ By default, Unity enables Write Defaults on newly created states, but the sample
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The default animator state, which defaults to Write Defaults on.](./2139205808.png)<br/><GreyItalicText>The default animator state, which defaults to Write Defaults on.</GreyItalicText>
+![The default animator state, which defaults to Write Defaults on.](./Write-Defaults.b7233fd9-7e96-41a3-af29-d87005d30f73.png)<br/><GreyItalicText>The default animator state, which defaults to Write Defaults on.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -67,7 +67,7 @@ If you have a hat that is disabled in the hierarchy when starting the upload pro
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1015021509.png)
+![](./Write-Defaults.ce10307f-1355-4e6c-ae3e-798647f62197.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -143,7 +143,7 @@ In the Write Defaults tab of this tool, it will tell you if you have mixed Write
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Animation Clip to ensure no empty States remain.](./2085938178.png)<br/><GreyItalicText>An example Animation Clip to ensure no empty States remain.</GreyItalicText>
+![An example Animation Clip to ensure no empty States remain.](./Write-Defaults.838b91df-b375-46d2-ba12-b2e752b82d07.png)<br/><GreyItalicText>An example Animation Clip to ensure no empty States remain.</GreyItalicText>
 
 
 

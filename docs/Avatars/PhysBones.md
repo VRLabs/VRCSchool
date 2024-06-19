@@ -33,7 +33,7 @@ The version switch changes between the older Version 1.0 and the newer Version 1
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./593344311.png)
+![](./PhysBones.c88518eb-23b7-478c-a379-b6996ba01f95.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -109,7 +109,7 @@ At all ends of the Phys Bone chain, creates a new “fake” child at this local
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Transform View](./711757928.png)<br/><GreyItalicText>The Transform View</GreyItalicText>
+![The Transform View](./PhysBones.bd0a51d5-9be7-4e0c-a8fd-db823cc954e1.png)<br/><GreyItalicText>The Transform View</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -432,7 +432,7 @@ Like Hinge, but you can specify the width of the hinge. This angle is shown as f
 
 
 
-![The preview for a Polar bone](./1050341278.png)<br/><GreyItalicText>The preview for a Polar bone</GreyItalicText>
+![The preview for a Polar bone](./PhysBones.797b09fb-f83e-4170-b139-37e4afc2063a.png)<br/><GreyItalicText>The preview for a Polar bone</GreyItalicText>
 
 
 
@@ -500,7 +500,7 @@ The list of VRC Phys Bone colliders that the bone can collide with. Will be expa
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The collision boxes of phys bones with Collision Radius 0.5 (Green, Top) and Collision Radius 1 (Red, Bottom)](./1517153580.png)<br/><GreyItalicText>The collision boxes of phys bones with Collision Radius 0.5 (Green, Top) and Collision Radius 1 (Red, Bottom)</GreyItalicText>
+![The collision boxes of phys bones with Collision Radius 0.5 (Green, Top) and Collision Radius 1 (Red, Bottom)](./PhysBones.9d77fbbd-4762-41d7-8785-fd9d8c68840d.png)<br/><GreyItalicText>The collision boxes of phys bones with Collision Radius 0.5 (Green, Top) and Collision Radius 1 (Red, Bottom)</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -644,7 +644,7 @@ An example is shown below for the Collision Radius field:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The effect of the collision radius field. You can see that the size at the ends is half (0.5) as big as the size in the middle.](./156272333.png)<br/><GreyItalicText>The effect of the collision radius field. You can see that the size at the ends is half (0.5) as big as the size in the middle.</GreyItalicText>
+![The effect of the collision radius field. You can see that the size at the ends is half (0.5) as big as the size in the middle.](./PhysBones.86fc6a5b-dcce-4956-a86f-706658af7653.png)<br/><GreyItalicText>The effect of the collision radius field. You can see that the size at the ends is half (0.5) as big as the size in the middle.</GreyItalicText>
 
 
 
@@ -653,7 +653,7 @@ An example is shown below for the Collision Radius field:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Curve. In this case used for the Collision Radius field.](./1082240166.png)<br/><GreyItalicText>An example Curve. In this case used for the Collision Radius field.</GreyItalicText>
+![An example Curve. In this case used for the Collision Radius field.](./PhysBones.421f2f8c-e911-4639-b858-7ea9755a1eb0.png)<br/><GreyItalicText>An example Curve. In this case used for the Collision Radius field.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -731,7 +731,7 @@ Whether or not this Phys Bone Collider should ignore the cylinders connecting Ph
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1408426889.png)
+![](./PhysBones.8aee3794-d3e2-4dad-aaed-9760ee767c2d.png)
 
 
 </div><div className='notion-spacer'></div>

@@ -45,7 +45,7 @@ There are two ways to toggle Stations:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1)'}}>
 
 
-![](./2049233100.png)
+![](./Stations.ea1f85a8-c745-47bc-80a9-222c8fe0c09d.png)
 
 
 </div><div className='notion-spacer'></div>

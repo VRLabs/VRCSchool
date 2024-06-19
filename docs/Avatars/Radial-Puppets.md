@@ -222,7 +222,7 @@ This is done so that it will keep the right property animatable when the shader 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Where to find the Hue Shift option in the Poiyomi shader, and how to set it to Animate when locked (or Renamed when locked)](./1376020130.png)<br/><GreyItalicText>Where to find the Hue Shift option in the Poiyomi shader, and how to set it to Animate when locked (or Renamed when locked)</GreyItalicText>
+![Where to find the Hue Shift option in the Poiyomi shader, and how to set it to Animate when locked (or Renamed when locked)](./Radial-Puppets.28f1d77e-923c-4964-aef2-3923a8bd476b.png)<br/><GreyItalicText>Where to find the Hue Shift option in the Poiyomi shader, and how to set it to Animate when locked (or Renamed when locked)</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

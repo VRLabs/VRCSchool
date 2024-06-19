@@ -50,7 +50,7 @@ if __name__ == '__main__':
         print(r, end='')
         resultList.append(r)
     result = list(result)
-    while any("error" in x.lower() for x in resultList):
+    while any("error " in x.lower() for x in resultList):
         result = execute(["npm.cmd", "run",  "--prefix", docunotionPath, "ts", "--", "-n", token, "-r", pageId])  # Cloned from https://github.com/jellejurre/docu-notion
         resultList = []
         for r in result:

@@ -73,7 +73,7 @@ Cons:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example VRC Avatar Parameter Driver for a Multi Toggle on the Object On state of Toggle B](./1296270281.png)<br/><GreyItalicText>An example VRC Avatar Parameter Driver for a Multi Toggle on the Object On state of Toggle B</GreyItalicText>
+![An example VRC Avatar Parameter Driver for a Multi Toggle on the Object On state of Toggle B](./Multi-Toggles.84b2eca2-f8e6-4572-a552-44387398672e.png)<br/><GreyItalicText>An example VRC Avatar Parameter Driver for a Multi Toggle on the Object On state of Toggle B</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -106,7 +106,7 @@ Both will require you to set up one Animation per object, where that Animation e
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Animation for the Toggle C object](./98702115.png)<br/><GreyItalicText>An example Animation for the Toggle C object</GreyItalicText>
+![An example Animation for the Toggle C object](./Multi-Toggles.c9334f90-4691-4372-ab84-ff602f42ff6e.png)<br/><GreyItalicText>An example Animation for the Toggle C object</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -174,7 +174,7 @@ Cons:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Single Layer Multi Toggle setup](./1083454891.png)<br/><GreyItalicText>The Single Layer Multi Toggle setup</GreyItalicText>
+![The Single Layer Multi Toggle setup](./Multi-Toggles.e71dc8b1-0dec-4fc8-a57f-0a62308d2723.png)<br/><GreyItalicText>The Single Layer Multi Toggle setup</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -235,7 +235,7 @@ Cons:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A Multi-Toggle Blend-Tree](./903045949.png)<br/><GreyItalicText>A Multi-Toggle Blend-Tree</GreyItalicText>
+![A Multi-Toggle Blend-Tree](./Multi-Toggles.d47e26f1-7520-4af5-a6b4-991e4e179f81.png)<br/><GreyItalicText>A Multi-Toggle Blend-Tree</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

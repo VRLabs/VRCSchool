@@ -47,11 +47,11 @@ Check if:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example toggle changing the boolParameter parameter.](./951371474.png)<br/><GreyItalicText>An example toggle changing the boolParameter parameter.</GreyItalicText>
+![An example toggle changing the boolParameter parameter.](./Troubleshooting.5cb017a4-dd7f-4ce7-9d6e-adc72697401c.png)<br/><GreyItalicText>An example toggle changing the boolParameter parameter.</GreyItalicText>
 
 
 
-![An example radial puppet changing the floatParameter parameter. Note that the Parameter field is empty, and the Parameter Rotation field has a value.](./460279527.png)<br/><GreyItalicText>An example radial puppet changing the floatParameter parameter. Note that the Parameter field is empty, and the Parameter Rotation field has a value.</GreyItalicText>
+![An example radial puppet changing the floatParameter parameter. Note that the Parameter field is empty, and the Parameter Rotation field has a value.](./Troubleshooting.882d4ede-9d50-425a-a801-2b8c6726a317.png)<br/><GreyItalicText>An example radial puppet changing the floatParameter parameter. Note that the Parameter field is empty, and the Parameter Rotation field has a value.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -83,7 +83,7 @@ Check if:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1)'}}>
 
 
-![An example set of Expression Parameters. Note that they are both set to Synced.](./113547354.png)<br/><GreyItalicText>An example set of Expression Parameters. Note that they are both set to Synced.</GreyItalicText>
+![An example set of Expression Parameters. Note that they are both set to Synced.](./Troubleshooting.7971caee-ef9d-4043-8dba-6f8b2dce8cde.png)<br/><GreyItalicText>An example set of Expression Parameters. Note that they are both set to Synced.</GreyItalicText>
 
 
 
@@ -113,7 +113,7 @@ Check if:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example set of Controller Parameters. Note that they have the same name as the Expression Parameters.](./2125933767.png)<br/><GreyItalicText>An example set of Controller Parameters. Note that they have the same name as the Expression Parameters.</GreyItalicText>
+![An example set of Controller Parameters. Note that they have the same name as the Expression Parameters.](./Troubleshooting.5f1263bc-e9eb-41ed-96c3-ae3bdfbe06c6.png)<br/><GreyItalicText>An example set of Controller Parameters. Note that they have the same name as the Expression Parameters.</GreyItalicText>
 
 
 
@@ -144,7 +144,7 @@ This can be changed by clicking the gear icon and setting the value to 1 by movi
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Layer. Note the Weight is set to 1, which is indicated by the Light Grey line under the Layer Name.](./360974108.png)<br/><GreyItalicText>An example Layer. Note the Weight is set to 1, which is indicated by the Light Grey line under the Layer Name.</GreyItalicText>
+![An example Layer. Note the Weight is set to 1, which is indicated by the Light Grey line under the Layer Name.](./Troubleshooting.6e33b010-09fe-47e3-97bb-e8256a858ebf.png)<br/><GreyItalicText>An example Layer. Note the Weight is set to 1, which is indicated by the Light Grey line under the Layer Name.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -178,7 +178,7 @@ Make sure that the Transitions between the States have the right Conditions and 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Animator Layer. You can see the Transition](./643301164.png)<br/><GreyItalicText>An example Animator Layer. You can see the Transition</GreyItalicText>
+![An example Animator Layer. You can see the Transition](./Troubleshooting.102f16c3-3fb9-4ccf-9363-a98ad1267d15.png)<br/><GreyItalicText>An example Animator Layer. You can see the Transition</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -212,7 +212,7 @@ Now, you can open the Animation window by going to Window → Animation → Anim
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example animation. If this says Missing in yellow text, you will need to re-record the changes.](./177389158.png)<br/><GreyItalicText>An example animation. If this says Missing in yellow text, you will need to re-record the changes.</GreyItalicText>
+![An example animation. If this says Missing in yellow text, you will need to re-record the changes.](./Troubleshooting.f62b6d16-555a-47f2-9ca8-b816cac7257a.png)<br/><GreyItalicText>An example animation. If this says Missing in yellow text, you will need to re-record the changes.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -302,7 +302,7 @@ Contacts and PhysBones can be identified and tested for interactions by enabling
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Debug Menu in the Circle Menu.](./1797205227.png)<br/><GreyItalicText>The Debug Menu in the Circle Menu.</GreyItalicText>
+![The Debug Menu in the Circle Menu.](./Troubleshooting.e59fcbd4-dc17-4062-a360-e9dc156818ab.png)<br/><GreyItalicText>The Debug Menu in the Circle Menu.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -332,7 +332,7 @@ Don’t forget that other players attempting to interact with you must also have
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Settings page for Avatar Interactions. Note how Avatar Allowed to Interact is set to Everyone, showing that everyone can interact with your avatar.](./804113188.png)<br/><GreyItalicText>The Settings page for Avatar Interactions. Note how Avatar Allowed to Interact is set to Everyone, showing that everyone can interact with your avatar.</GreyItalicText>
+![The Settings page for Avatar Interactions. Note how Avatar Allowed to Interact is set to Everyone, showing that everyone can interact with your avatar.](./Troubleshooting.6e56eefc-f6e0-4707-adfd-886e0b071b3f.png)<br/><GreyItalicText>The Settings page for Avatar Interactions. Note how Avatar Allowed to Interact is set to Everyone, showing that everyone can interact with your avatar.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -359,7 +359,7 @@ You can troubleshoot animations triggered via Gestures in VRChat even while in D
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Gesture Lock in the circle menu. It is currently disabled, so gestures will work just fine.](./1366891864.png)<br/><GreyItalicText>The Gesture Lock in the circle menu. It is currently disabled, so gestures will work just fine.</GreyItalicText>
+![The Gesture Lock in the circle menu. It is currently disabled, so gestures will work just fine.](./Troubleshooting.5c7f5837-4f9d-4eaf-9505-a1c7690bbfdb.png)<br/><GreyItalicText>The Gesture Lock in the circle menu. It is currently disabled, so gestures will work just fine.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

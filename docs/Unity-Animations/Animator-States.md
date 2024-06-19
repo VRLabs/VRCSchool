@@ -32,7 +32,7 @@ Details on Entry/Exit/Any States and blending can be explored further on the [An
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A default Animator State’s Inspector](./631710249.png)<br/><GreyItalicText>A default Animator State’s Inspector</GreyItalicText>
+![A default Animator State’s Inspector](./Animator-States.a3abe8ff-089d-45c4-b233-23e4dc02ceb4.png)<br/><GreyItalicText>A default Animator State’s Inspector</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -121,7 +121,7 @@ The `Mute` field disables a specific transition, while the `Solo` field disables
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A list of two transitions, one to New State, and one to Other New State. The transition to New State would take priority here.](./1621900039.png)<br/><GreyItalicText>A list of two transitions, one to New State, and one to Other New State. The transition to New State would take priority here.</GreyItalicText>
+![A list of two transitions, one to New State, and one to Other New State. The transition to New State would take priority here.](./Animator-States.78da6cd1-1d5b-4fe8-b6a6-2f180081b033.png)<br/><GreyItalicText>A list of two transitions, one to New State, and one to Other New State. The transition to New State would take priority here.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

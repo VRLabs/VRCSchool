@@ -45,7 +45,7 @@ A more complete guide on the contents of the Avatar Descriptor and what it does 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Avatar Descriptor](./1432051624.png)<br/><GreyItalicText>An example Avatar Descriptor</GreyItalicText>
+![An example Avatar Descriptor](./SDK-Components.fff0d443-19bd-4c2d-84e7-a0ab3945db36.png)<br/><GreyItalicText>An example Avatar Descriptor</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -86,7 +86,7 @@ More information on Contact Senders and Receivers can be found on the [Contact R
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.2500000000000001)'}}>
 
 
-![An example VRC Contact Sender](./464465948.png)<br/><GreyItalicText>An example VRC Contact Sender</GreyItalicText>
+![An example VRC Contact Sender](./SDK-Components.9b80d8dc-2343-408d-a33b-8d195fe2aabb.png)<br/><GreyItalicText>An example VRC Contact Sender</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -94,7 +94,7 @@ More information on Contact Senders and Receivers can be found on the [Contact R
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.3333333333333333)'}}>
 
 
-![An example VRC Contact Receiver](./1869544371.png)<br/><GreyItalicText>An example VRC Contact Receiver</GreyItalicText>
+![An example VRC Contact Receiver](./SDK-Components.11d39b02-7179-4c1a-bd7a-4eddd9d925e3.png)<br/><GreyItalicText>An example VRC Contact Receiver</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -131,7 +131,7 @@ More information on Phys Bones and Phys Bone Colliders can be found on the [Phys
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1504668961.png)
+![](./SDK-Components.597122fc-03d4-4fc2-91d7-022c20f09818.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -164,7 +164,7 @@ More information in Stations can be found on the [Stations](/docs/Other/Stations
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./2049233100.png)
+![](./SDK-Components.08bbf81c-f2e8-4d87-ad5f-52a9b3452261.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -207,7 +207,7 @@ More information can be found on the [Head Chop](/docs/Avatars/HeadChop) page.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1615889889.png)
+![](./SDK-Components.5243901e-3626-4730-b296-511bfff720c4.png)
 
 
 </div><div className='notion-spacer'></div>

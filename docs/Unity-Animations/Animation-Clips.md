@@ -31,7 +31,7 @@ Animation Clips are asset files that end in file extension `.anim` and can be cr
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./393391531.png)
+![](./Animation-Clips.da96118e-e759-46ee-bd08-c91013693afe.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -51,7 +51,7 @@ Animation Clips are asset files that end in file extension `.anim` and can be cr
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./276023939.png)
+![](./Animation-Clips.ef7e92b4-7d2d-4c02-8402-a566e7e3da38.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -70,7 +70,7 @@ Animation Clips are asset files that end in file extension `.anim` and can be cr
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./553811945.png)
+![](./Animation-Clips.cd7426c7-7cdc-46ce-9e22-baee16279ae1.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -100,11 +100,11 @@ The Animation window can be opened via any of the following methods:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./490471100.png)
+![](./Animation-Clips.f5585911-b729-43a3-ace2-c0c78e04a0d1.png)
 
 
 
-![](./1936296697.png)
+![](./Animation-Clips.5460d83a-2bb8-45b2-8dea-76bf394765a8.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -130,7 +130,7 @@ There are two distinct methods you can use to animate GameObjects in the Animati
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./820627019.png)
+![](./Animation-Clips.2f39f35e-9ff1-4e21-a86b-5d467a991f98.png)
 
 
 
@@ -146,7 +146,7 @@ The Animation window time line is tinted red when in record mode.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./719158723.png)
+![](./Animation-Clips.8bd9c25c-7c02-4b3f-9451-27aaa06bb66a.png)
 
 
 
@@ -167,7 +167,7 @@ Note: In record mode, the Preview button is also active, because you are preview
 #### Lock Window
 
 
-![](./1227375685.png)
+![](./Animation-Clips.2748e36c-7b1a-42d3-af5e-cc0291264172.png)
 
 
 You can lock the Animation window so that it does not switch while you’re still able to select and manipulate other GameObjects in the Scene.
@@ -204,7 +204,7 @@ Selecting a property and pressing `F2` will edit the Object path.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1390644375.png)
+![](./Animation-Clips.1e9f25a3-4524-4440-acda-f6fd03e470f7.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -231,7 +231,7 @@ The right side of the Animation window is the timeline for the current clip.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1175562367.png)
+![](./Animation-Clips.20f72469-0c19-4d36-9b28-41b564792981.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -267,7 +267,7 @@ There are four main ways to add properties to any Animation Clip.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./820627019.png)
+![](./Animation-Clips.aee9fee9-e078-4be4-8ba3-1f81f68aba6e.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -287,7 +287,7 @@ There are four main ways to add properties to any Animation Clip.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1892402999.png)
+![](./Animation-Clips.c384bfc2-1240-4cb6-972b-dabea59177b4.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -306,7 +306,7 @@ There are four main ways to add properties to any Animation Clip.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./548894622.png)
+![](./Animation-Clips.e7370e33-5a04-44a2-ba4a-5874f24c3e50.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -328,7 +328,7 @@ There are four main ways to add properties to any Animation Clip.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1040589517.png)
+![](./Animation-Clips.7116bc34-08ea-4063-8f40-0899e4401d76.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -338,7 +338,7 @@ There are four main ways to add properties to any Animation Clip.
 #### Example Animation Clip
 
 
-![Example: Quickly Creating a 360 Spin Animation](./435230779.gif)<br/><GreyItalicText>Example: Quickly Creating a 360 Spin Animation</GreyItalicText>
+![Example: Quickly Creating a 360 Spin Animation](./Animation-Clips.2a3a75b6-90e3-474c-bf9d-a1d671e8e5d5.gif)<br/><GreyItalicText>Example: Quickly Creating a 360 Spin Animation</GreyItalicText>
 
 
 ### Setting Keyframe Tangents {#7eb6cd64e9fa4cb884f8cf5b09266d65}
@@ -363,7 +363,7 @@ By `Right-Clicking` a key, you can reveal tangent options. You can also use `Ctr
 | Broken - Constant | Retain value until next keyframe                                                      |
 
 
-![Ctrl + A then Right Click to set all keyframes’ tangents at once](./1491334090.gif)<br/><GreyItalicText>Ctrl + A then Right Click to set all keyframes’ tangents at once</GreyItalicText>
+![Ctrl + A then Right Click to set all keyframes’ tangents at once](./Animation-Clips.a2595873-fad4-4cc0-84e1-b6b598e9a347.gif)<br/><GreyItalicText>Ctrl + A then Right Click to set all keyframes’ tangents at once</GreyItalicText>
 
 
 Take the previous example animation clip and compare the following **Clamped Auto** vs **Broken - Linear** tangent modes
@@ -373,7 +373,7 @@ Take the previous example animation clip and compare the following **Clamped Aut
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Cube spinning 360 degrees with animation curve set to Clamped Auto](./1032581759.gif)<br/><GreyItalicText>Cube spinning 360 degrees with animation curve set to Clamped Auto</GreyItalicText>
+![Cube spinning 360 degrees with animation curve set to Clamped Auto](./Animation-Clips.60d0a5c1-8117-41e1-aad6-70a171757ea0.gif)<br/><GreyItalicText>Cube spinning 360 degrees with animation curve set to Clamped Auto</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -381,7 +381,7 @@ Take the previous example animation clip and compare the following **Clamped Aut
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Cube spinning 360 degrees with animation curve set to Linear](./677699784.gif)<br/><GreyItalicText>Cube spinning 360 degrees with animation curve set to Linear</GreyItalicText>
+![Cube spinning 360 degrees with animation curve set to Linear](./Animation-Clips.ff28f650-479f-412f-a3ad-ee50988077ce.gif)<br/><GreyItalicText>Cube spinning 360 degrees with animation curve set to Linear</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -426,7 +426,7 @@ How far into the animation clip the animation clip should start playing. If this
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Animation Clip Settings](./1191867580.png)<br/><GreyItalicText>Animation Clip Settings</GreyItalicText>
+![Animation Clip Settings](./Animation-Clips.cd1050c9-1b33-457d-8e8b-d7cd2bb05f87.png)<br/><GreyItalicText>Animation Clip Settings</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

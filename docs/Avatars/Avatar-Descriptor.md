@@ -51,7 +51,7 @@ This article will go over how you can customize all this in detail.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![How to add the VRC Avatar Descriptor to your avatar](./39330214.png)<br/><GreyItalicText>How to add the VRC Avatar Descriptor to your avatar</GreyItalicText>
+![How to add the VRC Avatar Descriptor to your avatar](./Avatar-Descriptor.e3699c4a-cf7e-4813-ac2e-5a594fe61924.png)<br/><GreyItalicText>How to add the VRC Avatar Descriptor to your avatar</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -81,7 +81,7 @@ The way this view position is used in VRChat is it plays the T-Pose controller, 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./46470335.png)
+![](./Avatar-Descriptor.b5c3ad37-bf7f-49ff-8ca6-8da03eb679ee.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -115,7 +115,7 @@ Lip Sync controls the way the avatar’s mouth moves when you talk. There are mu
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1639730449.png)
+![](./Avatar-Descriptor.cb1efb1d-6026-4172-8057-541573226491.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -137,7 +137,7 @@ This is the default value, and has no lip sync attached to it. This only shows t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./212433895.png)
+![](./Avatar-Descriptor.f892715e-f46b-4086-8c0a-b740147cc010.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -177,7 +177,7 @@ See **Advanced Details** below for the other Lip Sync Modes
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./2093169195.png)
+![](./Avatar-Descriptor.58bdee10-82e8-4c9e-86d8-8bffbd422d37.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -206,7 +206,7 @@ When enabled, it shows three categories: General, Eyes and Eyelids, each of whic
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1276278721.png)
+![](./Avatar-Descriptor.cd42741a-be13-4106-98f1-feeff138bade.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -228,7 +228,7 @@ In the General tab, you can set how the avatar’s eyes move. It has two sliders
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1086406499.png)
+![](./Avatar-Descriptor.f366f479-1ec0-43cd-b0e1-c7815fa0a3d3.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -270,7 +270,7 @@ If you press the chain symbol to the left of the Rotation States, it splits up i
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./471323299.png)
+![](./Avatar-Descriptor.b06cea3b-6c9a-41a8-b1f3-06bef1c3702c.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -308,7 +308,7 @@ See **Advanced Details** below for the other Eyelid Types
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./978916320.png)
+![](./Avatar-Descriptor.9557939c-56a3-4eea-bcbe-ee849ae07986.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -345,7 +345,7 @@ The default Animator Controllers can be found in the Avatar SDK under Samples.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./844823511.png)
+![](./Avatar-Descriptor.eedef2db-a401-4cf6-ae7c-29b820ca03bb.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -378,7 +378,7 @@ For more information, see the [Expressions Menu and Parameters](/docs/Avatars/Ex
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./738795967.png)
+![](./Avatar-Descriptor.90d457d4-149d-40b5-aeb2-a96eb53325a2.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -421,7 +421,7 @@ VRChat animates the Built-In parameter `Viseme` from 0 to 100 based on volume.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./404055417.png)
+![](./Avatar-Descriptor.61534e84-99d4-47ba-a38b-7d5c42c03c1a.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -451,7 +451,7 @@ VRChat animates the Built-In parameter `Viseme` from 0 to 100 based on volume.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./960552567.png)
+![](./Avatar-Descriptor.c28604f0-a861-40ea-895c-270a39381483.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -498,7 +498,7 @@ The `Rotation States` section allows you to set the rotations for all eyelids fo
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./793390576.png)
+![](./Avatar-Descriptor.92f7798a-e0d8-4850-85ef-d1fee5dd3858.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -535,7 +535,7 @@ Note that this behaviour can be overwritten using a `VRC Animator Tracking Contr
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1779104451.png)
+![](./Avatar-Descriptor.0c0511df-0487-4c01-bff9-09ca8f988cf5.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -584,7 +584,7 @@ When the `Colliders` drop down is enabled, the collider locations will be shown 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./442319661.png)
+![](./Avatar-Descriptor.9e7b394e-3d17-4428-8d8c-8d67763010e6.png)
 
 
 </div><div className='notion-spacer'></div>

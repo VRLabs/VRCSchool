@@ -37,7 +37,7 @@ To see them in the Scene view, you have to:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A Contact Sender (left) and a Contact Receiver (right) in the scene view. Note that Gizmos is enabled, and they are selected in the hierarchy, otherwise they don’t show up.](./1349752785.png)<br/><GreyItalicText>A Contact Sender (left) and a Contact Receiver (right) in the scene view. Note that Gizmos is enabled, and they are selected in the hierarchy, otherwise they don’t show up.</GreyItalicText>
+![A Contact Sender (left) and a Contact Receiver (right) in the scene view. Note that Gizmos is enabled, and they are selected in the hierarchy, otherwise they don’t show up.](./Contacts.3fefaded-ed2f-4308-a615-9614821c53b9.png)<br/><GreyItalicText>A Contact Sender (left) and a Contact Receiver (right) in the scene view. Note that Gizmos is enabled, and they are selected in the hierarchy, otherwise they don’t show up.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -75,7 +75,7 @@ When they are enabled and inside of a Contact Receiver, the Receiver sets a para
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.43750000000000006)'}}>
 
 
-![](./103333965.png)
+![](./Contacts.f880419a-36c0-410d-ad31-cdc0faad98a3.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -121,7 +121,7 @@ When they are enabled and have a Contact Sender in their bounds, they will set a
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.37500000000000006)'}}>
 
 
-![](./1318453253.png)
+![](./Contacts.41a22af9-6035-4e3a-a708-8e558054da7a.png)
 
 
 </div><div className='notion-spacer'></div>

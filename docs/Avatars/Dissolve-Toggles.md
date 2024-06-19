@@ -54,7 +54,7 @@ And the second keyframe be one frame later with the following values:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Material settings for a simple Dissolve Toggle](./154765862.png)<br/><GreyItalicText>The Material settings for a simple Dissolve Toggle</GreyItalicText>
+![The Material settings for a simple Dissolve Toggle](./Dissolve-Toggles.7b8ac1e2-fc87-442b-a99f-930e6762d897.png)<br/><GreyItalicText>The Material settings for a simple Dissolve Toggle</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

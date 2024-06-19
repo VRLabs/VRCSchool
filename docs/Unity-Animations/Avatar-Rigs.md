@@ -34,7 +34,7 @@ To configure Avatar Rig settings, follow these steps:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.49999999999999994)'}}>
 
 
-![The default window of the Model Inspector.](./1394557885.png)<br/><GreyItalicText>The default window of the Model Inspector.</GreyItalicText>
+![The default window of the Model Inspector.](./Avatar-Rigs.5989f8bd-0504-408d-8620-6e3d059e806e.png)<br/><GreyItalicText>The default window of the Model Inspector.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -77,7 +77,7 @@ The `Skin Weights` dropdown has two options:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The default Humanoid Rig Inspector.](./1156772291.png)<br/><GreyItalicText>The default Humanoid Rig Inspector.</GreyItalicText>
+![The default Humanoid Rig Inspector.](./Avatar-Rigs.f3de98ff-1341-4163-95a3-9a80465dbc3c.png)<br/><GreyItalicText>The default Humanoid Rig Inspector.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -139,11 +139,11 @@ Pose:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1223756257.png)
+![](./Avatar-Rigs.4c15e0c1-c01a-4385-bbd5-17a1eaf7fd6f.png)
 
 
 
-![The Humanoid Rig Configure Mapping Screen. Note that the screen might not fit on your whole screen and might require scrolling, hence the two images.](./2048767087.png)<br/><GreyItalicText>The Humanoid Rig Configure Mapping Screen. Note that the screen might not fit on your whole screen and might require scrolling, hence the two images.</GreyItalicText>
+![The Humanoid Rig Configure Mapping Screen. Note that the screen might not fit on your whole screen and might require scrolling, hence the two images.](./Avatar-Rigs.4dec9976-73bb-474b-8b80-0722db400e3c.png)<br/><GreyItalicText>The Humanoid Rig Configure Mapping Screen. Note that the screen might not fit on your whole screen and might require scrolling, hence the two images.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -184,7 +184,7 @@ Then the `Revert`, `Apply` and `Done` buttons:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Humanoid Rig Configure Muscles & Settings Screen.](./1911303005.png)<br/><GreyItalicText>The Humanoid Rig Configure Muscles & Settings Screen.</GreyItalicText>
+![The Humanoid Rig Configure Muscles & Settings Screen.](./Avatar-Rigs.f77ad301-4990-40c1-8be1-eb97923d3036.png)<br/><GreyItalicText>The Humanoid Rig Configure Muscles & Settings Screen.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -214,7 +214,7 @@ The root node allows you to set a root node for Animations to play from.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./869978888.png)
+![](./Avatar-Rigs.938bded3-4491-4257-b130-2b77a735172f.png)
 
 
 </div><div className='notion-spacer'></div>

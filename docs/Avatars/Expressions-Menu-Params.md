@@ -27,7 +27,7 @@ A VRC Expression Parameter List is an Asset containing a list of parameters, con
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![How to create a VRC EXpression Parameter List](./895434162.png)<br/><GreyItalicText>How to create a VRC EXpression Parameter List</GreyItalicText>
+![How to create a VRC EXpression Parameter List](./Expressions-Menu-Params.e5e5af3a-36c5-497a-bc18-6979f9f2c6fb.png)<br/><GreyItalicText>How to create a VRC EXpression Parameter List</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -80,7 +80,7 @@ The `Clear Parameters` button clears the parameters, and the `Default Parameters
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Default VRC Expression Parameters. These are only needed if you’re using the default Action controller (for VRCEmote) or the default FX controller (for the other two).](./665630259.png)<br/><GreyItalicText>The Default VRC Expression Parameters. These are only needed if you’re using the default Action controller (for VRCEmote) or the default FX controller (for the other two).</GreyItalicText>
+![The Default VRC Expression Parameters. These are only needed if you’re using the default Action controller (for VRCEmote) or the default FX controller (for the other two).](./Expressions-Menu-Params.8560de94-88be-4fad-9153-97b15d6eab7c.png)<br/><GreyItalicText>The Default VRC Expression Parameters. These are only needed if you’re using the default Action controller (for VRCEmote) or the default FX controller (for the other two).</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -119,7 +119,7 @@ A VRC Expression Parameter has a few settings:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example VRC Expression Parameter List](./674243222.png)<br/><GreyItalicText>An example VRC Expression Parameter List</GreyItalicText>
+![An example VRC Expression Parameter List](./Expressions-Menu-Params.aaa56b52-d20a-4a69-9af1-45a06e958b5b.png)<br/><GreyItalicText>An example VRC Expression Parameter List</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -148,7 +148,7 @@ There are six types of Controls:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![How to create a VRC Expression Menu](./778368940.png)<br/><GreyItalicText>How to create a VRC Expression Menu</GreyItalicText>
+![How to create a VRC Expression Menu](./Expressions-Menu-Params.72526ce5-73b5-4400-b96a-33187ba9ed8a.png)<br/><GreyItalicText>How to create a VRC Expression Menu</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -168,7 +168,7 @@ If you give it a short press, it stays enabled for at least 0.2 seconds.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A Default VRC Expression Menu. It has 0 Controls and has my current avatar selected.](./1638371583.png)<br/><GreyItalicText>A Default VRC Expression Menu. It has 0 Controls and has my current avatar selected.</GreyItalicText>
+![A Default VRC Expression Menu. It has 0 Controls and has my current avatar selected.](./Expressions-Menu-Params.2a317253-df54-42fb-9ec8-8c8e10d37ba1.png)<br/><GreyItalicText>A Default VRC Expression Menu. It has 0 Controls and has my current avatar selected.</GreyItalicText>
 
 
 
@@ -237,7 +237,7 @@ This Control is also rarely used, with similar uses to the Two Axis Puppet.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A Two/Four Axis Puppet](./188035601.png)<br/><GreyItalicText>A Two/Four Axis Puppet</GreyItalicText>
+![A Two/Four Axis Puppet](./Expressions-Menu-Params.7da01118-34c9-491e-a343-e9f8e32ed298.png)<br/><GreyItalicText>A Two/Four Axis Puppet</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -258,7 +258,7 @@ This Control is the second most popular Control, as it is used for slider settin
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A Radial Puppet](./1378538709.png)<br/><GreyItalicText>A Radial Puppet</GreyItalicText>
+![A Radial Puppet](./Expressions-Menu-Params.fd9915b1-eb2c-43c4-9229-c52431372a3a.png)<br/><GreyItalicText>A Radial Puppet</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

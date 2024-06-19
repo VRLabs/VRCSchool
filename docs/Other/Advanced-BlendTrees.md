@@ -65,7 +65,7 @@ Direct and 1D Blend Trees are the only types that follow simple mathematical rul
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1.0625)'}}>
 
 
-![An example of the visualizations used in this article. This layer would save the Output AAP according to the 1D Blend Tree technique.](./1666596027.png)<br/><GreyItalicText>An example of the visualizations used in this article. This layer would save the Output AAP according to the 1D Blend Tree technique.</GreyItalicText>
+![An example of the visualizations used in this article. This layer would save the Output AAP according to the 1D Blend Tree technique.](./Advanced-BlendTrees.f1ce9312-49c9-4f55-b087-20ba83569370.png)<br/><GreyItalicText>An example of the visualizations used in this article. This layer would save the Output AAP according to the 1D Blend Tree technique.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -115,7 +115,7 @@ Example template can be downloaded from [Logic: AND Gate](https://notes.sleightl
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1)'}}>
 
 
-![An example of an AND gate.](./909312720.png)<br/><GreyItalicText>An example of an AND gate.</GreyItalicText>
+![An example of an AND gate.](./Advanced-BlendTrees.1a73cfa0-1e05-4420-bff3-f9c2f4158d25.png)<br/><GreyItalicText>An example of an AND gate.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -182,7 +182,7 @@ Example template can be downloaded from [Logic: OR Gate](https://notes.sleightly
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1.0625)'}}>
 
 
-![An example of an OR gate.](./120177191.png)<br/><GreyItalicText>An example of an OR gate.</GreyItalicText>
+![An example of an OR gate.](./Advanced-BlendTrees.d184218f-7edb-4ce8-946a-6538eeaa9d20.png)<br/><GreyItalicText>An example of an OR gate.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -248,7 +248,7 @@ Example template can be downloaded from [Logic: NOT Gate](https://notes.sleightl
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1.125)'}}>
 
 
-![An example of a NOT gate.](./1630324986.png)<br/><GreyItalicText>An example of a NOT gate.</GreyItalicText>
+![An example of a NOT gate.](./Advanced-BlendTrees.113cb8f9-4881-4056-b54c-0aee8de46861.png)<br/><GreyItalicText>An example of a NOT gate.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -317,7 +317,7 @@ Example template can be downloaded from [Logic: Arbitrary Gate](https://notes.sl
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1.125)'}}>
 
 
-![An example of a 2-bit gate.](./1893975133.png)<br/><GreyItalicText>An example of a 2-bit gate.</GreyItalicText>
+![An example of a 2-bit gate.](./Advanced-BlendTrees.7994fd69-0ef2-4c2a-a5ee-94ee8bc92b65.png)<br/><GreyItalicText>An example of a 2-bit gate.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -354,7 +354,7 @@ Example template can be downloaded from [Remap Float](https://notes.sleightly.de
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1.0625000000000002)'}}>
 
 
-![An example of negating a float with an AAP. If the Source value is 100, the Target-100 animation will play with full weight, setting the Target AAP to -100.](./1402861232.png)<br/><GreyItalicText>An example of negating a float with an AAP. If the Source value is 100, the Target-100 animation will play with full weight, setting the Target AAP to -100.</GreyItalicText>
+![An example of negating a float with an AAP. If the Source value is 100, the Target-100 animation will play with full weight, setting the Target AAP to -100.](./Advanced-BlendTrees.ef7c9bfa-8f70-4c84-9733-be8974704d39.png)<br/><GreyItalicText>An example of negating a float with an AAP. If the Source value is 100, the Target-100 animation will play with full weight, setting the Target AAP to -100.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -393,7 +393,7 @@ This can include negative values as inputs too, but is lower on precision and on
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![An example of adding two values by animating the Output AAP in two 1D Blend Trees in a Direct Blend Tree.](./937898130.png)<br/><GreyItalicText>An example of adding two values by animating the Output AAP in two 1D Blend Trees in a Direct Blend Tree.</GreyItalicText>
+![An example of adding two values by animating the Output AAP in two 1D Blend Trees in a Direct Blend Tree.](./Advanced-BlendTrees.fd2c6e08-20ee-4a00-a8c8-199a6df63f4e.png)<br/><GreyItalicText>An example of adding two values by animating the Output AAP in two 1D Blend Trees in a Direct Blend Tree.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -420,7 +420,7 @@ Example templates can be downloaded from [Math: Addition](https://notes.sleightl
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![An example of adding two values by animating the Output AAP in two animation children in a Direct Blend Tree.](./1773078877.png)<br/><GreyItalicText>An example of adding two values by animating the Output AAP in two animation children in a Direct Blend Tree.</GreyItalicText>
+![An example of adding two values by animating the Output AAP in two animation children in a Direct Blend Tree.](./Advanced-BlendTrees.19c34781-943e-4f0e-a6fd-95244a8a4276.png)<br/><GreyItalicText>An example of adding two values by animating the Output AAP in two animation children in a Direct Blend Tree.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -447,7 +447,7 @@ The first example uses the 1D Blend Tree method.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![An example of subtracting two values by animating the Output AAP in two 1D Blend Trees in a Direct Blend Tree. Note how the bottom blend tree animated -100 at 100 and vice versa.](./854792473.png)<br/><GreyItalicText>An example of subtracting two values by animating the Output AAP in two 1D Blend Trees in a Direct Blend Tree. Note how the bottom blend tree animated -100 at 100 and vice versa.</GreyItalicText>
+![An example of subtracting two values by animating the Output AAP in two 1D Blend Trees in a Direct Blend Tree. Note how the bottom blend tree animated -100 at 100 and vice versa.](./Advanced-BlendTrees.32f4e2db-f96d-4a0b-bb6a-f902091fdf47.png)<br/><GreyItalicText>An example of subtracting two values by animating the Output AAP in two 1D Blend Trees in a Direct Blend Tree. Note how the bottom blend tree animated -100 at 100 and vice versa.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -470,7 +470,7 @@ Example templates can be downloaded from [Math: Subtraction](https://notes.sleig
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![An example of subtracting two values by animating the Output AAP in two animation children in a Direct Blend Tree.](./215422814.png)<br/><GreyItalicText>An example of subtracting two values by animating the Output AAP in two animation children in a Direct Blend Tree.</GreyItalicText>
+![An example of subtracting two values by animating the Output AAP in two animation children in a Direct Blend Tree.](./Advanced-BlendTrees.1d7a3555-c27a-4900-bf27-cbe6209a177d.png)<br/><GreyItalicText>An example of subtracting two values by animating the Output AAP in two animation children in a Direct Blend Tree.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -499,7 +499,7 @@ The first example uses the 1D Blend Tree method.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![An example of multiplying two values by animating the value through two 1D Blend Trees. Note that both inputs here go up to 10, and the last animation, Output 100, animates those two values multiplied together.](./1300750050.png)<br/><GreyItalicText>An example of multiplying two values by animating the value through two 1D Blend Trees. Note that both inputs here go up to 10, and the last animation, Output 100, animates those two values multiplied together.</GreyItalicText>
+![An example of multiplying two values by animating the value through two 1D Blend Trees. Note that both inputs here go up to 10, and the last animation, Output 100, animates those two values multiplied together.](./Advanced-BlendTrees.a3d86561-5d44-4db2-9c8d-22060c24b769.png)<br/><GreyItalicText>An example of multiplying two values by animating the value through two 1D Blend Trees. Note that both inputs here go up to 10, and the last animation, Output 100, animates those two values multiplied together.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -522,7 +522,7 @@ Example templates can be downloaded from [Math: Multiplication](https://notes.sl
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![An example of multiplying two values by animating the value through two Direct Blend Trees.](./1036265510.png)<br/><GreyItalicText>An example of multiplying two values by animating the value through two Direct Blend Trees.</GreyItalicText>
+![An example of multiplying two values by animating the value through two Direct Blend Trees.](./Advanced-BlendTrees.afdc94c2-c79a-4d30-9a4b-329e819470a3.png)<br/><GreyItalicText>An example of multiplying two values by animating the value through two Direct Blend Trees.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -559,7 +559,7 @@ Example template can be downloaded from [Math: Division](https://notes.sleightly
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![An example of division. Note that this doesn’t divide by Input, but by (1 + Input).](./1047846400.png)<br/><GreyItalicText>An example of division. Note that this doesn’t divide by Input, but by (1 + Input).</GreyItalicText>
+![An example of division. Note that this doesn’t divide by Input, but by (1 + Input).](./Advanced-BlendTrees.55fb9229-29d2-4b4f-87ed-6d0329c86402.png)<br/><GreyItalicText>An example of division. Note that this doesn’t divide by Input, but by (1 + Input).</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -595,7 +595,7 @@ Example template can be downloaded from [Frame Time Measurement](https://notes.s
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The layout of Frame Time detection layers.](./460877383.png)<br/><GreyItalicText>The layout of Frame Time detection layers.</GreyItalicText>
+![The layout of Frame Time detection layers.](./Advanced-BlendTrees.37500e40-7728-4b23-b58f-22992d7903a4.png)<br/><GreyItalicText>The layout of Frame Time detection layers.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -615,7 +615,7 @@ The Time Animation would be set up with two key frames, one at 0 and one at a fr
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Time animation.](./30392290.png)<br/><GreyItalicText>An example Time animation.</GreyItalicText>
+![An example Time animation.](./Advanced-BlendTrees.ce9db488-304f-495e-9f9f-62219f267de5.png)<br/><GreyItalicText>An example Time animation.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -642,7 +642,7 @@ Now the `FrameTime` is set to the difference between the time at the current and
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Frame Time measurement layer.](./946887407.png)<br/><GreyItalicText>An example Frame Time measurement layer.</GreyItalicText>
+![An example Frame Time measurement layer.](./Advanced-BlendTrees.13784416-8a13-4223-ae64-567ca058fec6.png)<br/><GreyItalicText>An example Frame Time measurement layer.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -699,7 +699,7 @@ $SmoothedValue = Value * (1-SmoothAmount) + SmoothedValue * SmoothAmount$
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.9375000000000001)'}}>
 
 
-![An example of an Exponential Smoothing Blend Tree. Here the bounds are chosen to be [-100, 100], but you can change these as needed.](./711673686.png)
+![An example of an Exponential Smoothing Blend Tree. Here the bounds are chosen to be [-100, 100], but you can change these as needed.](./Advanced-BlendTrees.9c1dc5a4-3a5a-4db1-9127-01fb6f44d213.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -755,7 +755,7 @@ Example template can be downloaded from [Smoothing (Linear)](https://notes.sleig
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![An example of an Linear Smoothing Blend Tree.](./632094979.png)<br/><GreyItalicText>An example of an Linear Smoothing Blend Tree.</GreyItalicText>
+![An example of an Linear Smoothing Blend Tree.](./Advanced-BlendTrees.18d6feed-b8a8-45f7-bc61-0823aa79f08e.png)<br/><GreyItalicText>An example of an Linear Smoothing Blend Tree.</GreyItalicText>
 
 
 

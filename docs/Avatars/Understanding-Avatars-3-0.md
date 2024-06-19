@@ -41,7 +41,7 @@ Green nodes are components handled by VRChat, while blue nodes are native to the
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A visual diagram covering VRChat’s Avatars 3.0 animation system](./1441358587.png)<br/><GreyItalicText>A visual diagram covering VRChat’s Avatars 3.0 animation system</GreyItalicText>
+![A visual diagram covering VRChat’s Avatars 3.0 animation system](./Understanding-Avatars-3-0.c94f050e-a290-419d-80c3-17b8386be0c8.png)<br/><GreyItalicText>A visual diagram covering VRChat’s Avatars 3.0 animation system</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

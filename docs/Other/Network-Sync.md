@@ -33,7 +33,7 @@ However, sending the position of every object every frame would cost way too muc
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1181766882.png)
+![](./Network-Sync.ffbbcd4d-638b-4909-99eb-35fa203d4f6f.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -119,7 +119,7 @@ An example of this can be seen on the right, where the local side processes all 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.8125)'}}>
 
 
-![An example late join synced system.](./634370300.png)<br/><GreyItalicText>An example late join synced system.</GreyItalicText>
+![An example late join synced system.](./Network-Sync.7e821e59-44ee-4564-aa8c-22521f1498b1.png)<br/><GreyItalicText>An example late join synced system.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

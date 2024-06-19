@@ -51,7 +51,7 @@ The five animations should be given X/Y Position values that put them at their r
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1488012674.png)
+![](./Axis-Puppets.f3ba614a-9bae-4ea0-8628-759941f23dfd.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -75,7 +75,7 @@ This examples also demonstrates that the 2D Blend Tree is not limited to specifi
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1578327662.png)
+![](./Axis-Puppets.9118ddfb-c077-4c5e-8838-04e6be0e2632.png)
 
 
 </div><div className='notion-spacer'></div>

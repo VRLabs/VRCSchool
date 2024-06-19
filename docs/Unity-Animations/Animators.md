@@ -31,7 +31,7 @@ To do this automatically:
 3. Ensure your FBX has a Humanoid or Generic rig.
 
 
-![The Animator Component as seen in the in the GameObject Inspector](./857741858.png)<br/><GreyItalicText>The Animator Component as seen in the in the GameObject Inspector</GreyItalicText>
+![The Animator Component as seen in the in the GameObject Inspector](./Animators.05bdefe6-752c-4b88-8b21-d850bd8159ed.png)<br/><GreyItalicText>The Animator Component as seen in the in the GameObject Inspector</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -39,7 +39,7 @@ To do this automatically:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Animator component can be added to any GameObject via the Add Component button in the Inspector.](./2119461928.png)<br/><GreyItalicText>The Animator component can be added to any GameObject via the Add Component button in the Inspector.</GreyItalicText>
+![The Animator component can be added to any GameObject via the Add Component button in the Inspector.](./Animators.741d34c0-40ab-4dbb-b188-4398480fb0e5.png)<br/><GreyItalicText>The Animator component can be added to any GameObject via the Add Component button in the Inspector.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -73,7 +73,7 @@ If we want to animate `Child` relative to the Animator on the `Avatar`, the Anim
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1129557491.png)
+![](./Animators.8ab2181a-7fb5-49b8-8f5f-e69e3e38a428.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -92,7 +92,7 @@ If we want to animate `Child` relative to the Animator on the `Parent`, the Anim
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./441975135.png)
+![](./Animators.f124fddb-1f0b-4067-af52-931d529b13b0.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -120,7 +120,7 @@ The Animation Window changes depending on the nearest Animator component on itse
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1061506237.png)
+![](./Animators.11385ea9-fc36-4ced-aa53-2d0f5e12d0d5.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -140,7 +140,7 @@ The Animation Window changes depending on the nearest Animator component on itse
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./854758219.png)
+![](./Animators.be0e651f-edc8-4a06-9aca-2fca8b4b84ed.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -159,7 +159,7 @@ The Animation Window changes depending on the nearest Animator component on itse
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1972264678.png)
+![](./Animators.ca900a4b-850c-425c-8571-1c33278d42a1.png)
 
 
 </div><div className='notion-spacer'></div>

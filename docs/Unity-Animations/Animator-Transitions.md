@@ -33,7 +33,7 @@ Multiple transitions can connect the same two states, indicated by three arrows 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![A default Animator Transition, going from New State to New State 0.](./1837482512.png)<br/><GreyItalicText>A default Animator Transition, going from New State to New State 0.</GreyItalicText>
+![A default Animator Transition, going from New State to New State 0.](./Animator-Transitions.128a2826-e20a-4b2b-9b32-be6bb08e5ced.png)<br/><GreyItalicText>A default Animator Transition, going from New State to New State 0.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -73,7 +73,7 @@ You can rename an Animator Transition using the text field below the Transitions
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5625)'}}>
 
 
-![Two Animator States, connected by two Animator Transitions. The top one is selected,, which is shown by the lighter gray color.](./1788340533.png)<br/><GreyItalicText>Two Animator States, connected by two Animator Transitions. The top one is selected,, which is shown by the lighter gray color.</GreyItalicText>
+![Two Animator States, connected by two Animator Transitions. The top one is selected,, which is shown by the lighter gray color.](./Animator-Transitions.9587ce61-a9a6-410e-903c-e3f04643b2f9.png)<br/><GreyItalicText>Two Animator States, connected by two Animator Transitions. The top one is selected,, which is shown by the lighter gray color.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -129,7 +129,7 @@ Consider two conditions in the `Conditions List`: `IntExample Greater 1` and `Fl
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
 
 
-![An example Condition List with every possible Animator Condition type shown. Note how the TriggerExample Animator Condition is selected and would be deleted if the - button would be pressed.](./50135509.png)<br/><GreyItalicText>An example Condition List with every possible Animator Condition type shown. Note how the TriggerExample Animator Condition is selected and would be deleted if the - button would be pressed.</GreyItalicText>
+![An example Condition List with every possible Animator Condition type shown. Note how the TriggerExample Animator Condition is selected and would be deleted if the - button would be pressed.](./Animator-Transitions.5a825060-2c67-4f8b-ae37-4415cbf0015f.png)<br/><GreyItalicText>An example Condition List with every possible Animator Condition type shown. Note how the TriggerExample Animator Condition is selected and would be deleted if the - button would be pressed.</GreyItalicText>
 
 
 
@@ -160,7 +160,7 @@ An additional option exclusive to `Any State Transitions` is `Can Transition To 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Any State Transition. Note the extra Can Transition To Self option.](./1149417968.png)<br/><GreyItalicText>An example Any State Transition. Note the extra Can Transition To Self option.</GreyItalicText>
+![An example Any State Transition. Note the extra Can Transition To Self option.](./Animator-Transitions.568574fa-bfe3-4379-bb70-e5cbae70c4b0.png)<br/><GreyItalicText>An example Any State Transition. Note the extra Can Transition To Self option.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -282,7 +282,7 @@ The white line at the top is the Pivot Weight of both animations over time. This
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example of the Visual Transition Editor.](./1323630918.png)<br/><GreyItalicText>An example of the Visual Transition Editor.</GreyItalicText>
+![An example of the Visual Transition Editor.](./Animator-Transitions.fd34603f-c8da-4d63-b169-564bf54fde36.png)<br/><GreyItalicText>An example of the Visual Transition Editor.</GreyItalicText>
 
 
 

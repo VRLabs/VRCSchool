@@ -42,7 +42,7 @@ To install the creator companion, go to https://www.vrchat.com, click `Log In`, 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![How to get to the downloads section.](./960716983.png)<br/><GreyItalicText>How to get to the downloads section.</GreyItalicText>
+![How to get to the downloads section.](./Uploading-An-Avatar.05dd5576-bf63-435f-a6a8-b519429f99d7.png)<br/><GreyItalicText>How to get to the downloads section.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -62,7 +62,7 @@ Then, scroll down and Click the `Download the Creator Companion` Button.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Creator Companion download button](./1361784448.png)<br/><GreyItalicText>The Creator Companion download button</GreyItalicText>
+![The Creator Companion download button](./Uploading-An-Avatar.8b78cc26-1858-41f0-831a-b22acc6f02ba.png)<br/><GreyItalicText>The Creator Companion download button</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -105,7 +105,7 @@ The creator companion will tell you where to find important tabs, like your Proj
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Creator Companion Welcome screen](./462067650.png)<br/><GreyItalicText>The Creator Companion Welcome screen</GreyItalicText>
+![The Creator Companion Welcome screen](./Uploading-An-Avatar.ee4a88a7-6ade-4f95-a747-150bc942533f.png)<br/><GreyItalicText>The Creator Companion Welcome screen</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -125,7 +125,7 @@ After a few seconds, you can press `Continue` to go to the setup.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Creator Companion Introduction screen.](./1079456088.png)<br/><GreyItalicText>The Creator Companion Introduction screen.</GreyItalicText>
+![The Creator Companion Introduction screen.](./Uploading-An-Avatar.04871b9d-4b5b-43b7-af66-2e7eeeb1fd7c.png)<br/><GreyItalicText>The Creator Companion Introduction screen.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -153,7 +153,7 @@ After pressing continue, you can press `Install Unity` to bring you to the Unity
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Creator Companion Unity Hub Installation Screen](./715530761.png)<br/><GreyItalicText>The Creator Companion Unity Hub Installation Screen</GreyItalicText>
+![The Creator Companion Unity Hub Installation Screen](./Uploading-An-Avatar.9a16702e-cc92-46f0-85ba-ac08c3b0942d.png)<br/><GreyItalicText>The Creator Companion Unity Hub Installation Screen</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -205,7 +205,7 @@ If you see the following popup, check `Always allow` [`api.unity.com`](http://ap
 
 
 
-![](./1091691471.png)
+![](./Uploading-An-Avatar.42b89c19-a02e-48f7-a23c-9db133c834ba.png)
 
 
 
@@ -218,7 +218,7 @@ This should sign you in to Unity Hub.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Unity ID Creation Website](./1550491069.png)<br/><GreyItalicText>The Unity ID Creation Website</GreyItalicText>
+![The Unity ID Creation Website](./Uploading-An-Avatar.49bcaff1-9f91-4b16-a0f5-d41a2a4b1ab8.png)<br/><GreyItalicText>The Unity ID Creation Website</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -248,7 +248,7 @@ Check `Don't ask me again` and click `Skip Installation`.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Install Editor screen. We do not want to do this.](./78073877.png)<br/><GreyItalicText>The Install Editor screen. We do not want to do this.</GreyItalicText>
+![The Install Editor screen. We do not want to do this.](./Uploading-An-Avatar.4c378d45-c885-44bf-838e-ea4e32c3ba95.png)<br/><GreyItalicText>The Install Editor screen. We do not want to do this.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -275,7 +275,7 @@ Once this is done we can return to the Creator Companion app.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Get Personal License screen. We do want to do this.](./501123495.png)<br/><GreyItalicText>The Get Personal License screen. We do want to do this.</GreyItalicText>
+![The Get Personal License screen. We do want to do this.](./Uploading-An-Avatar.1e8bec62-4d08-4fb3-85f5-eda80e95d775.png)<br/><GreyItalicText>The Get Personal License screen. We do want to do this.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -297,7 +297,7 @@ In the Creator Companion, click `I have installed the Unity Hub` and click the `
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Install Unity Screen](./255200248.png)<br/><GreyItalicText>The Install Unity Screen</GreyItalicText>
+![The Install Unity Screen](./Uploading-An-Avatar.3b92818c-0194-4d6a-bd2b-afc9d4249c2d.png)<br/><GreyItalicText>The Install Unity Screen</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -327,7 +327,7 @@ Press the `Create New Project` button.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Add or Create Project Screen](./1695779480.png)<br/><GreyItalicText>The Add or Create Project Screen</GreyItalicText>
+![The Add or Create Project Screen](./Uploading-An-Avatar.fcac2ec4-436d-4685-955e-7265381df4b1.png)<br/><GreyItalicText>The Add or Create Project Screen</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -350,7 +350,7 @@ If you have the space for it, I recommend making this a location on an SSD, pref
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Project Creation Screen](./1376215585.png)<br/><GreyItalicText>The Project Creation Screen</GreyItalicText>
+![The Project Creation Screen](./Uploading-An-Avatar.6458023c-8707-4ea1-bd36-17849e7c68f0.png)<br/><GreyItalicText>The Project Creation Screen</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -379,7 +379,7 @@ An avatar project has the latest version of the Base SDK and Avatar SDK by defau
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Project Window](./589311192.png)<br/><GreyItalicText>The Project Window</GreyItalicText>
+![The Project Window](./Uploading-An-Avatar.76edf647-5775-4691-b963-6a2249b359d6.png)<br/><GreyItalicText>The Project Window</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -423,7 +423,7 @@ These will usually be described on the avatar’s website or purchase receipt. S
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Method 2 of importing a UnityPackage.](./759297780.png)<br/><GreyItalicText>Method 2 of importing a UnityPackage.</GreyItalicText>
+![Method 2 of importing a UnityPackage.](./Uploading-An-Avatar.ac381b6b-ae03-43cf-8d62-690e246d217d.png)<br/><GreyItalicText>Method 2 of importing a UnityPackage.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -462,7 +462,7 @@ If you have a Prefab, click and drag it into your Hierarchy window on the top le
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example avatar’s Assets layout. The Prefab icon might also look like your avatar in a T pose.](./304734480.png)<br/><GreyItalicText>An example avatar’s Assets layout. The Prefab icon might also look like your avatar in a T pose.</GreyItalicText>
+![An example avatar’s Assets layout. The Prefab icon might also look like your avatar in a T pose.](./Uploading-An-Avatar.34e40a75-baf4-4726-95ff-b6707d5599e8.png)<br/><GreyItalicText>An example avatar’s Assets layout. The Prefab icon might also look like your avatar in a T pose.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -497,7 +497,7 @@ If the `VRChat SDK` tab is missing, you are either missing some packages or have
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![How to open the SDK window.](./1548653723.png)<br/><GreyItalicText>How to open the SDK window.</GreyItalicText>
+![How to open the SDK window.](./Uploading-An-Avatar.160a2d8a-488b-40e2-9de8-da558b87854a.png)<br/><GreyItalicText>How to open the SDK window.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -534,7 +534,7 @@ You will be asked for an authenticator code or an email code, enter this as well
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The SDK log in window.](./1899826179.png)<br/><GreyItalicText>The SDK log in window.</GreyItalicText>
+![The SDK log in window.](./Uploading-An-Avatar.97172cdc-3048-4f7b-8349-6064855abcbd.png)<br/><GreyItalicText>The SDK log in window.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -573,7 +573,7 @@ Once you’ve done all this, your avatar should be uploaded, congratulations.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The SDK Builder window.](./1498522156.png)<br/><GreyItalicText>The SDK Builder window.</GreyItalicText>
+![The SDK Builder window.](./Uploading-An-Avatar.cc733df7-e9be-4dcf-8751-d8df60b34ce9.png)<br/><GreyItalicText>The SDK Builder window.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -608,7 +608,7 @@ Then find the `Pipeline Manager` object on the Quest avatar, paste the ID into t
 
 
 
-![The Pipeline Manager Component](./1913042162.png)<br/><GreyItalicText>The Pipeline Manager Component</GreyItalicText>
+![The Pipeline Manager Component](./Uploading-An-Avatar.e570b6de-a370-4f1b-ad14-aeac9c8b9b89.png)<br/><GreyItalicText>The Pipeline Manager Component</GreyItalicText>
 
 
 
@@ -620,7 +620,7 @@ Now, when you upload the avatar, it’ll connect to the PC version.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Content Manager view.](./1117139089.png)<br/><GreyItalicText>The Content Manager view.</GreyItalicText>
+![The Content Manager view.](./Uploading-An-Avatar.4b1c91c3-f029-4bf9-86d2-ec60e12f1c12.png)<br/><GreyItalicText>The Content Manager view.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -642,7 +642,7 @@ Select `Quest` in the `Selected Platform` dropdown in the Builder tab.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Selected Platform dropdown.](./1094207175.png)<br/><GreyItalicText>The Selected Platform dropdown.</GreyItalicText>
+![The Selected Platform dropdown.](./Uploading-An-Avatar.c14013b5-9b00-4ee8-a8a8-6ed653036cc5.png)<br/><GreyItalicText>The Selected Platform dropdown.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

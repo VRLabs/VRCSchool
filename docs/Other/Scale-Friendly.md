@@ -194,7 +194,7 @@ If you change your avatar scale to 3.0m (twice as big), the values would be `2.0
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Direct Blend Tree from the example.](./2075350278.png)<br/><GreyItalicText>The Direct Blend Tree from the example.</GreyItalicText>
+![The Direct Blend Tree from the example.](./Scale-Friendly.d81eea7b-63bc-4b00-9a1e-24ae1646ebe8.png)<br/><GreyItalicText>The Direct Blend Tree from the example.</GreyItalicText>
 
 
 

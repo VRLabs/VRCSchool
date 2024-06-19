@@ -43,7 +43,7 @@ Note: The Default State is the State colored orange. It can be changed by perfor
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A Default Animator Layer](./10897445.png)<br/><GreyItalicText>A Default Animator Layer</GreyItalicText>
+![A Default Animator Layer](./Animator-Controllers.49e92945-9508-4a16-a056-03e8c62a5e20.png)<br/><GreyItalicText>A Default Animator Layer</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -138,11 +138,11 @@ Now the final applied value for the BlendShape will be 50 + 0.5 * (100 - 50) = 7
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An animator layer and its config. Note that the topmost layer cannot have its weight changed. It will always be set to 1.](./16405974.png)<br/><GreyItalicText>An animator layer and its config. Note that the topmost layer cannot have its weight changed. It will always be set to 1.</GreyItalicText>
+![An animator layer and its config. Note that the topmost layer cannot have its weight changed. It will always be set to 1.](./Animator-Controllers.3b9f218d-39df-4cfd-b2b9-7c76fba299b2.png)<br/><GreyItalicText>An animator layer and its config. Note that the topmost layer cannot have its weight changed. It will always be set to 1.</GreyItalicText>
 
 
 
-![A second animator layer, which can have its weight changed.](./297873896.png)<br/><GreyItalicText>A second animator layer, which can have its weight changed.</GreyItalicText>
+![A second animator layer, which can have its weight changed.](./Animator-Controllers.abb3b505-7cdd-4f92-a5fa-07b1d035ed08.png)<br/><GreyItalicText>A second animator layer, which can have its weight changed.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -192,7 +192,7 @@ More information on the effects of Avatar Masks, both in Unity and in VRChat, ca
 
 
 
-![Creating an Avatar Mask](./1757865687.png)<br/><GreyItalicText>Creating an Avatar Mask</GreyItalicText>
+![Creating an Avatar Mask](./Animator-Controllers.9852dc53-0e5e-4605-aefd-dcfe5f25db1a.png)<br/><GreyItalicText>Creating an Avatar Mask</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -200,7 +200,7 @@ More information on the effects of Avatar Masks, both in Unity and in VRChat, ca
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 2)) * 0.75)'}}>
 
 
-![The Avatar Mask Inspector. This area can be used to enable and disable certain Humanoid Muscles and Transforms for being animated.](./1468467156.png)<br/><GreyItalicText>The Avatar Mask Inspector. This area can be used to enable and disable certain Humanoid Muscles and Transforms for being animated.</GreyItalicText>
+![The Avatar Mask Inspector. This area can be used to enable and disable certain Humanoid Muscles and Transforms for being animated.](./Animator-Controllers.a77174df-7047-4769-a15c-962573aaeb85.png)<br/><GreyItalicText>The Avatar Mask Inspector. This area can be used to enable and disable certain Humanoid Muscles and Transforms for being animated.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -234,7 +234,7 @@ With the `Timing` checkbox on,  the synced Layer’s animation and the source La
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![What syncing two layers together looks like in the Inspector. Here, the Synced layer has the exact same State Machine as the Source Layer, except for the animations in those states.](./985735145.png)<br/><GreyItalicText>What syncing two layers together looks like in the Inspector. Here, the Synced layer has the exact same State Machine as the Source Layer, except for the animations in those states.</GreyItalicText>
+![What syncing two layers together looks like in the Inspector. Here, the Synced layer has the exact same State Machine as the Source Layer, except for the animations in those states.](./Animator-Controllers.3b6a5dc4-1d15-44db-b222-fcf208ac1d8e.png)<br/><GreyItalicText>What syncing two layers together looks like in the Inspector. Here, the Synced layer has the exact same State Machine as the Source Layer, except for the animations in those states.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

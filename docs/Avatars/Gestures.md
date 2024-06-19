@@ -53,7 +53,7 @@ On Index Controllers, the Animation State of the hands is set to Tracking by def
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The default VRChat Hands layer 1.](./456393152.png)<br/><GreyItalicText>The default VRChat Hands layer 1.</GreyItalicText>
+![The default VRChat Hands layer 1.](./Gestures.2f5f8933-7315-4978-85bd-eee6172a84b8.png)<br/><GreyItalicText>The default VRChat Hands layer 1.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -113,7 +113,7 @@ OR
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example Buffer Animation Clip](./2085938178.png)<br/><GreyItalicText>An example Buffer Animation Clip</GreyItalicText>
+![An example Buffer Animation Clip](./Gestures.8b2646ec-a40a-43c7-9d31-087ec3bca853.png)<br/><GreyItalicText>An example Buffer Animation Clip</GreyItalicText>
 
 
 

@@ -44,7 +44,7 @@ In the Blend Tree Editor, a visual, node-based layout displays the entire blend 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An Animator State with a Blend Tree as the Motion.](./1584463711.png)<br/><GreyItalicText>An Animator State with a Blend Tree as the Motion.</GreyItalicText>
+![An Animator State with a Blend Tree as the Motion.](./BlendTrees.d223551c-cd80-45ee-b742-495534518429.png)<br/><GreyItalicText>An Animator State with a Blend Tree as the Motion.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -95,7 +95,7 @@ The actual length of the Animation Clip is calculated as the usual lengths of al
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A default (empty) blend tree.](./1731333540.png)<br/><GreyItalicText>A default (empty) blend tree.</GreyItalicText>
+![A default (empty) blend tree.](./BlendTrees.31167512-7222-4480-b320-891206085fe5.png)<br/><GreyItalicText>A default (empty) blend tree.</GreyItalicText>
 
 
 
@@ -158,7 +158,7 @@ $$
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example of a 1D Blend Tree. Since the value of 0.3 is 60% towards the second Motion, Animation 1 will be played with a weight of 0.4, and Animation 2 will be played with a weight of 0.6.](./1965226766.png)<br/><GreyItalicText>An example of a 1D Blend Tree. Since the value of 0.3 is 60% towards the second Motion, Animation 1 will be played with a weight of 0.4, and Animation 2 will be played with a weight of 0.6.</GreyItalicText>
+![An example of a 1D Blend Tree. Since the value of 0.3 is 60% towards the second Motion, Animation 1 will be played with a weight of 0.4, and Animation 2 will be played with a weight of 0.6.](./BlendTrees.2500e6e8-65ab-467f-8d56-79ed7edd29ff.png)<br/><GreyItalicText>An example of a 1D Blend Tree. Since the value of 0.3 is 60% towards the second Motion, Animation 1 will be played with a weight of 0.4, and Animation 2 will be played with a weight of 0.6.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -197,7 +197,7 @@ This is beneficial for character controllers or aim controllers, not for direct 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1)'}}>
 
 
-![An example 2D Simple Directional Blend Tree. You can see that since the point in 2d space is equidistant from Animation 1 and Animation 2, they both get the same weight, and the rest gets equally divided between the other children, namely Child Blend Tree and Animation 3.](./737278523.png)<br/><GreyItalicText>An example 2D Simple Directional Blend Tree. You can see that since the point in 2d space is equidistant from Animation 1 and Animation 2, they both get the same weight, and the rest gets equally divided between the other children, namely Child Blend Tree and Animation 3.</GreyItalicText>
+![An example 2D Simple Directional Blend Tree. You can see that since the point in 2d space is equidistant from Animation 1 and Animation 2, they both get the same weight, and the rest gets equally divided between the other children, namely Child Blend Tree and Animation 3.](./BlendTrees.2ae6ea44-2582-4d87-827d-9280ad084053.png)<br/><GreyItalicText>An example 2D Simple Directional Blend Tree. You can see that since the point in 2d space is equidistant from Animation 1 and Animation 2, they both get the same weight, and the rest gets equally divided between the other children, namely Child Blend Tree and Animation 3.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -255,7 +255,7 @@ Note: a Write Defaults Off Direct Blend Tree behaves very differently, and shoul
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./965555113.png)
+![](./BlendTrees.a12c57e3-0c81-492b-8cad-ab238ea76ae7.png)
 
 
 </div><div className='notion-spacer'></div>

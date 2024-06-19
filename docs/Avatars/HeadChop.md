@@ -74,7 +74,7 @@ You can have a max of 16 HeadChop components with a max of 32 bones each, though
 
 
 
-![The Head Chop Component](./153353104.png)<br/><GreyItalicText>The Head Chop Component</GreyItalicText>
+![The Head Chop Component](./HeadChop.f791f29c-1b70-4d74-87b7-f32c7cd2d249.png)<br/><GreyItalicText>The Head Chop Component</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

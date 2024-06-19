@@ -85,7 +85,7 @@ For our baseline, we are going to look at the simple 2 state toggle.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The default toggle we will be comparing against. Two animations, each with two frames, both with the same value. Write defaults on.](./1150136599.png)<br/><GreyItalicText>The default toggle we will be comparing against. Two animations, each with two frames, both with the same value. Write defaults on.</GreyItalicText>
+![The default toggle we will be comparing against. Two animations, each with two frames, both with the same value. Write defaults on.](./Benchmarks.4351b050-8e08-4da8-bd75-b72a22e8ded4.png)<br/><GreyItalicText>The default toggle we will be comparing against. Two animations, each with two frames, both with the same value. Write defaults on.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -114,7 +114,7 @@ The results shown in this graph are in the `static` case, meaning no parameters 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The frame time to layer count graph for the basic toggle without being actively toggled.](./451449969.png)<br/><GreyItalicText>The frame time to layer count graph for the basic toggle without being actively toggled.</GreyItalicText>
+![The frame time to layer count graph for the basic toggle without being actively toggled.](./Benchmarks.98dec25c-ed4d-4580-8f10-112ad6d3616f.png)<br/><GreyItalicText>The frame time to layer count graph for the basic toggle without being actively toggled.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -137,7 +137,7 @@ This graph shows us that there is an approximately 20-30% higher cost for toggle
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The frame time to layer count graph for the basic toggle while being actively toggled.](./1115228553.png)<br/><GreyItalicText>The frame time to layer count graph for the basic toggle while being actively toggled.</GreyItalicText>
+![The frame time to layer count graph for the basic toggle while being actively toggled.](./Benchmarks.7282930c-45a3-44c9-8bc6-dfc8238903b2.png)<br/><GreyItalicText>The frame time to layer count graph for the basic toggle while being actively toggled.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -175,7 +175,7 @@ For the slower setup I used a single Direct Blend Tree, with many 1D Blend Trees
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Direct Blend Tree frame time without the constant toggling](./1513557126.png)<br/><GreyItalicText>Direct Blend Tree frame time without the constant toggling</GreyItalicText>
+![Direct Blend Tree frame time without the constant toggling](./Benchmarks.f3ff7277-627c-481c-a23c-878bf8557ce2.png)<br/><GreyItalicText>Direct Blend Tree frame time without the constant toggling</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -183,7 +183,7 @@ For the slower setup I used a single Direct Blend Tree, with many 1D Blend Trees
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Direct Blend Tree frame time with the constant toggling](./738174773.png)<br/><GreyItalicText>Direct Blend Tree frame time with the constant toggling</GreyItalicText>
+![Direct Blend Tree frame time with the constant toggling](./Benchmarks.cedfddde-bb1a-4c01-8c31-e2ed8446ef8d.png)<br/><GreyItalicText>Direct Blend Tree frame time with the constant toggling</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -219,7 +219,7 @@ So say for example I have a pair of shoes to toggle, and I want them on by defau
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Direct Blend Tree frame time with default animation layer without constant toggling](./1059997236.png)<br/><GreyItalicText>Direct Blend Tree frame time with default animation layer without constant toggling</GreyItalicText>
+![Direct Blend Tree frame time with default animation layer without constant toggling](./Benchmarks.2a117ac0-6a72-4ad8-b8a6-340aa3d81907.png)<br/><GreyItalicText>Direct Blend Tree frame time with default animation layer without constant toggling</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -227,7 +227,7 @@ So say for example I have a pair of shoes to toggle, and I want them on by defau
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Direct Blend Tree frame time with default animation layer with constant toggling](./1637761592.png)<br/><GreyItalicText>Direct Blend Tree frame time with default animation layer with constant toggling</GreyItalicText>
+![Direct Blend Tree frame time with default animation layer with constant toggling](./Benchmarks.e1ac14d9-30d1-4298-8beb-196d50e6cc99.png)<br/><GreyItalicText>Direct Blend Tree frame time with default animation layer with constant toggling</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -305,7 +305,7 @@ This relation seems the same for all controller types/layer configurations.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Frame time for controllers vs layers per controller with WD on two toggle states without active toggling.](./1011057958.png)<br/><GreyItalicText>Frame time for controllers vs layers per controller with WD on two toggle states without active toggling.</GreyItalicText>
+![Frame time for controllers vs layers per controller with WD on two toggle states without active toggling.](./Benchmarks.3982e6fd-bd72-42c7-b939-c57eab15bbe0.png)<br/><GreyItalicText>Frame time for controllers vs layers per controller with WD on two toggle states without active toggling.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -366,7 +366,7 @@ However, setting the weight to 0 still makes it count for performance!
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Frame time of constraints](./1062140885.png)<br/><GreyItalicText>Frame time of constraints</GreyItalicText>
+![Frame time of constraints](./Benchmarks.4114091d-819b-454e-aef3-085c592f10d7.png)<br/><GreyItalicText>Frame time of constraints</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -460,7 +460,7 @@ Colliders will make a cloth component take about twice as much frame time per 10
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.4375)'}}>
 
 
-![Frame time of cloth with changing vertex count](./824857978.png)<br/><GreyItalicText>Frame time of cloth with changing vertex count</GreyItalicText>
+![Frame time of cloth with changing vertex count](./Benchmarks.44f45e0a-c4f6-434f-9dd4-ef2cd406ca82.png)<br/><GreyItalicText>Frame time of cloth with changing vertex count</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -503,7 +503,7 @@ Since PhysBones’ runtime is very different in VRChat and Unity, these results 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Frame time of Phys Bone Transforms](./1173956749.png)<br/><GreyItalicText>Frame time of Phys Bone Transforms</GreyItalicText>
+![Frame time of Phys Bone Transforms](./Benchmarks.c60fe5b4-e953-4656-a53c-0bf39fdcb335.png)<br/><GreyItalicText>Frame time of Phys Bone Transforms</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -556,7 +556,7 @@ As for concrete time numbers: 1000 draw calls seem to take about 2 ms.
 
 
 
-![Frame times of Material Count vs Mesh Count. Note that the graph is quite symmetrical across the red line, meaning that 40 meshes with 60 materials has nearly the same frame time as 60 meshes with 40 materials.](./1134044037.png)<br/><GreyItalicText>Frame times of Material Count vs Mesh Count. Note that the graph is quite symmetrical across the red line, meaning that 40 meshes with 60 materials has nearly the same frame time as 60 meshes with 40 materials.</GreyItalicText>
+![Frame times of Material Count vs Mesh Count. Note that the graph is quite symmetrical across the red line, meaning that 40 meshes with 60 materials has nearly the same frame time as 60 meshes with 40 materials.](./Benchmarks.d1467fa6-76a7-4554-939a-c117fe331047.png)<br/><GreyItalicText>Frame times of Material Count vs Mesh Count. Note that the graph is quite symmetrical across the red line, meaning that 40 meshes with 60 materials has nearly the same frame time as 60 meshes with 40 materials.</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -589,7 +589,7 @@ Vertex count did not seem to matter much for Bone or Material tests, but the Sta
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Frame time of bones on a Skinned Mesh Renderer](./1010892394.png)<br/><GreyItalicText>Frame time of bones on a Skinned Mesh Renderer</GreyItalicText>
+![Frame time of bones on a Skinned Mesh Renderer](./Benchmarks.d154c876-8ee5-4ee9-91db-41bdd74bb938.png)<br/><GreyItalicText>Frame time of bones on a Skinned Mesh Renderer</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

@@ -55,7 +55,7 @@ Keep in mind that you cannot disable the Animator or the GameObject for your own
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![Where to enable the debug view](./988404117.png)<br/><GreyItalicText>Where to enable the debug view</GreyItalicText>
+![Where to enable the debug view](./Sub-Animator.8998d3a9-50e0-44ce-a4ba-b2e0ae84e7b9.png)<br/><GreyItalicText>Where to enable the debug view</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

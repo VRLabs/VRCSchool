@@ -48,7 +48,7 @@ There are a few key differences between the two which heavily limit the use case
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A Direct Blend Tree with 3 Clothing Toggles](./1859464.png)<br/><GreyItalicText>A Direct Blend Tree with 3 Clothing Toggles</GreyItalicText>
+![A Direct Blend Tree with 3 Clothing Toggles](./DBT-Combining.790535c4-1675-45c1-acc2-e2e35e24840a.png)<br/><GreyItalicText>A Direct Blend Tree with 3 Clothing Toggles</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -77,7 +77,7 @@ Making toggles and radial puppets in a Direct Blend Tree is not much different o
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./48613275.png)
+![](./DBT-Combining.1abe0d2f-7a8f-4b3e-a1d5-8759a7b730ab.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -94,7 +94,7 @@ Making toggles and radial puppets in a Direct Blend Tree is not much different o
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./169486649.png)
+![](./DBT-Combining.9c21437a-f3ef-41c8-8831-9836e7cdc9a9.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -115,7 +115,7 @@ Making toggles and radial puppets in a Direct Blend Tree is not much different o
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1368158965.png)
+![](./DBT-Combining.6082eb41-9e59-44fd-967b-d9bcf8858d17.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -141,7 +141,7 @@ Making toggles and radial puppets in a Direct Blend Tree is not much different o
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./470438026.png)
+![](./DBT-Combining.a0d1992c-e56b-460e-953b-50726eb3045e.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -164,7 +164,7 @@ Making toggles and radial puppets in a Direct Blend Tree is not much different o
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./217162598.png)
+![](./DBT-Combining.ff9651fb-f2f3-436d-99f9-a6050c8ce0d1.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -199,7 +199,7 @@ An example of combining multiple radial puppets and toggles can be found at [Dir
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./665191418.png)
+![](./DBT-Combining.db78fcbc-8fc2-4d13-a77c-ed70a16db590.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -223,7 +223,7 @@ An example of combining multiple radial puppets and toggles can be found at [Dir
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./774821673.png)
+![](./DBT-Combining.27b28185-6d91-4b2e-a758-66dce530f0a6.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -279,7 +279,7 @@ Changing the Write Defaults value from On to Off <u>**WILL**</u> break the Blend
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./303526834.png)
+![](./DBT-Combining.8e09f581-e527-4dab-8ba9-13eb1a258c0b.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -311,7 +311,7 @@ Here we have a Direct Blend Tree containing nine children, we can organize them 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./517785859.png)
+![](./DBT-Combining.13617a33-0fcb-49fb-a1bd-189675d0d2ff.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -335,7 +335,7 @@ Next, select each child and change the Blend Type to `Direct` in the inspector.
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./829572228.png)
+![](./DBT-Combining.e738b37f-59c2-4907-9f95-030f3d4e79ee.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -366,7 +366,7 @@ An example of combining multiple radial puppets and toggles can be found at [Dir
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./649281776.png)
+![](./DBT-Combining.102f9341-2486-402f-bc9f-1636ecb0fe8d.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -385,7 +385,7 @@ You can double click on any of the Direct Blend Trees to open them in an isolate
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./2002630787.png)
+![](./DBT-Combining.6747a1a8-a87b-489c-a1fc-3a302fd360ef.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -404,7 +404,7 @@ You can navigate back to the full Blend Tree view by clicking on the arrows in t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./1831675796.png)
+![](./DBT-Combining.cc3914a3-83f7-448c-9640-d4ad9d8f81ab.png)
 
 
 </div><div className='notion-spacer'></div>

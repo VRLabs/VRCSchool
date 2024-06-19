@@ -52,7 +52,7 @@ In the Object On state, we have an animation with two keyframes, both enabling t
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 1)'}}>
 
 
-![The most basic toggle](./2073176264.png)<br/><GreyItalicText>The most basic toggle</GreyItalicText>
+![The most basic toggle](./Toggles.d7a54c34-805f-4003-9be3-f43b34bbe41b.png)<br/><GreyItalicText>The most basic toggle</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -71,7 +71,7 @@ The Buffer state is there so that if your toggle is enabled on upload, it doesnâ
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![An example buffer animation](./1321539564.png)<br/><GreyItalicText>An example buffer animation</GreyItalicText>
+![An example buffer animation](./Toggles.1e645437-9457-4c6b-bfb3-ccf062239a8e.png)<br/><GreyItalicText>An example buffer animation</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -106,7 +106,7 @@ Explanations:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Object On transitions](./1193994722.png)<br/><GreyItalicText>The Object On transitions</GreyItalicText>
+![The Object On transitions](./Toggles.e5cb9c0b-7e49-486a-9289-65b4a18afc3d.png)<br/><GreyItalicText>The Object On transitions</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -114,7 +114,7 @@ Explanations:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![The Object Off transitions](./182616335.png)<br/><GreyItalicText>The Object Off transitions</GreyItalicText>
+![The Object Off transitions](./Toggles.ff6765d6-45fc-44da-bd4f-ad4f302f14dd.png)<br/><GreyItalicText>The Object Off transitions</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>

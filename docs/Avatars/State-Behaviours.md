@@ -2,7 +2,7 @@
 title: VRC State Behaviours
 sidebar_position: 16
 slug: State-Behaviours
-last_edited: 2024-05-04T22:03:00.000Z
+last_edited: 2024-06-18T16:10:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -84,7 +84,7 @@ Note that for all operations, [Expression Parameter Mismatching](/docs/Other/Par
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Avatar Parameter Driver State Behaviour](./431395757.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver State Behaviour</GreyItalicText>
+![A VRC Avatar Parameter Driver State Behaviour](./State-Behaviours.54967ed5-1527-4e48-8f44-6fa721871ca8.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver State Behaviour</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -110,7 +110,7 @@ The **Destination** field is the parameter that will be set, and the **Value** f
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Avatar Parameter Driver Set Operation](./36459844.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver Set Operation</GreyItalicText>
+![A VRC Avatar Parameter Driver Set Operation](./State-Behaviours.21539e84-0818-42a3-b80c-d7820128bc07.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver Set Operation</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -140,7 +140,7 @@ This parameter is best applied locally, and the resulting value synced over the 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Avatar Parameter Driver Add Operation](./1437385861.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver Add Operation</GreyItalicText>
+![A VRC Avatar Parameter Driver Add Operation](./State-Behaviours.045503cf-d153-43bd-806d-c6bf4d500053.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver Add Operation</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -170,7 +170,7 @@ This parameter is best applied locally, with the resulting value synced over the
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Avatar Parameter Driver Random Operation](./2127262319.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver Random Operation</GreyItalicText>
+![A VRC Avatar Parameter Driver Random Operation](./State-Behaviours.ccbc51d4-d4e9-4133-9c0d-3170799108cc.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver Random Operation</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -212,7 +212,7 @@ Then this value will be remapped from `[0, 10]` to `[0, 20]`, giving us a value 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Avatar Parameter Driver Copy Operation](./2095748717.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver Copy Operation</GreyItalicText>
+![A VRC Avatar Parameter Driver Copy Operation](./State-Behaviours.c2c97b0e-7fd2-4dc0-8f20-e703d30df222.png)<br/><GreyItalicText>A VRC Avatar Parameter Driver Copy Operation</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -252,7 +252,7 @@ Some quirks to this:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Animator Tracking Control State Behaviour](./493152350.png)<br/><GreyItalicText>A VRC Animator Tracking Control State Behaviour</GreyItalicText>
+![A VRC Animator Tracking Control State Behaviour](./State-Behaviours.156d0d9e-d0b1-462a-836b-de9c13899d52.png)<br/><GreyItalicText>A VRC Animator Tracking Control State Behaviour</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -290,7 +290,7 @@ Fields:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Animator Layer Control State Behavour](./239533296.png)<br/><GreyItalicText>A VRC Animator Layer Control State Behavour</GreyItalicText>
+![A VRC Animator Layer Control State Behavour](./State-Behaviours.5663a44d-772f-457d-b9c4-1dae20ea6090.png)<br/><GreyItalicText>A VRC Animator Layer Control State Behavour</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -357,7 +357,7 @@ Fields:
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Animator Locomotion Control State Behaviour](./1463236200.png)<br/><GreyItalicText>A VRC Animator Locomotion Control State Behaviour</GreyItalicText>
+![A VRC Animator Locomotion Control State Behaviour](./State-Behaviours.f21da972-11b6-4013-b975-941363df09fd.png)<br/><GreyItalicText>A VRC Animator Locomotion Control State Behaviour</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -407,7 +407,7 @@ If the state is exited before the Fixed Delay has passed, the Pose Space is not 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Animator Temporary Pose Space State Behaviour](./1362174085.png)<br/><GreyItalicText>A VRC Animator Temporary Pose Space State Behaviour</GreyItalicText>
+![A VRC Animator Temporary Pose Space State Behaviour](./State-Behaviours.b0f4f4b1-ac61-45b8-9a0f-af2ef7d6472d.png)<br/><GreyItalicText>A VRC Animator Temporary Pose Space State Behaviour</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -439,7 +439,7 @@ For example, the Action Layer has its weight set to 0 by default (so it doesn’
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Playable Layer Tracking Control State Behaviour](./1025677821.png)<br/><GreyItalicText>A VRC Playable Layer Tracking Control State Behaviour</GreyItalicText>
+![A VRC Playable Layer Tracking Control State Behaviour](./State-Behaviours.8fe58091-935a-4a9f-8e9a-512bac4c0c28.png)<br/><GreyItalicText>A VRC Playable Layer Tracking Control State Behaviour</GreyItalicText>
 
 
 
@@ -497,7 +497,7 @@ It can play any number of Audio Clips on a single Audio Source. Do note that man
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A VRC Animator Play Audio State Behaviour](./484759697.png)<br/><GreyItalicText>A VRC Animator Play Audio State Behaviour</GreyItalicText>
+![A VRC Animator Play Audio State Behaviour](./State-Behaviours.9e8f5a7d-2110-49af-8959-c472f6e45b2a.png)<br/><GreyItalicText>A VRC Animator Play Audio State Behaviour</GreyItalicText>
 
 
 
@@ -524,4 +524,4 @@ Fields:
 
 
 ---
-<RightAlignedText>Last Updated: 18 June 2024 11:32:05</RightAlignedText>
+<RightAlignedText>Last Updated: 18 June 2024 16:10:00</RightAlignedText>

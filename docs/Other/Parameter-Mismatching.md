@@ -22,7 +22,7 @@ However, parameters between your Expression Parameters vs your local animator pa
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A parameter labeled Toggle added to VRChat Expression Parameters as a Bool](./557974353.png)<br/><GreyItalicText>A parameter labeled Toggle added to VRChat Expression Parameters as a Bool</GreyItalicText>
+![A parameter labeled Toggle added to VRChat Expression Parameters as a Bool](./Parameter-Mismatching.62b4338c-a3b3-4c21-af85-6e89dbe81769.png)<br/><GreyItalicText>A parameter labeled Toggle added to VRChat Expression Parameters as a Bool</GreyItalicText>
 
 
 </div><div className='notion-spacer'></div>
@@ -30,7 +30,7 @@ However, parameters between your Expression Parameters vs your local animator pa
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![A parameter labeled Toggle added to local animator parameters as a Float](./1788072644.png)<br/><GreyItalicText>A parameter labeled Toggle added to local animator parameters as a Float</GreyItalicText>
+![A parameter labeled Toggle added to local animator parameters as a Float](./Parameter-Mismatching.56887656-c3dd-4ba0-9474-ffd3100e69e7.png)<br/><GreyItalicText>A parameter labeled Toggle added to local animator parameters as a Float</GreyItalicText>
 
 
 
