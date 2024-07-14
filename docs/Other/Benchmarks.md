@@ -2,7 +2,7 @@
 title: Unity/VRChat Performance Benchmarks
 sidebar_position: 0
 slug: Benchmarks
-last_edited: 2024-06-04T19:53:00.000Z
+last_edited: 2024-07-14T21:44:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/)
@@ -327,6 +327,15 @@ I won’t bore you with the graphs, since they are just a straight line, but as 
 ## Constraints {#caec003575e446d2bf97a8a23de7daf8}
 
 
+:::caution
+
+VRChat is adding a new component, VRCConstraint, that will replace constraints in VRChat. The section on them is below this one.
+
+:::
+
+
+
+
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
@@ -369,10 +378,34 @@ However, setting the weight to 0 still makes it count for performance!
 ![Frame time of constraints](./Benchmarks.4114091d-819b-454e-aef3-085c592f10d7.png)<br/><GreyItalicText>Frame time of constraints</GreyItalicText>
 
 
+
 </div><div className='notion-spacer'></div>
 </div>
 
 
+---
+
+
+## VRC Constraints {#59ace515859342c0b58324f69473f172}
+
+
+VRC Constraints are components added by VRChat that will replace Unity Constraints in VRChat. They are meant to be more optimized and more feature complete versions of Unity Constraints, while still being a drop-in replacement. There is an auto conversion feature at the bottom of the VRCSDK. 
+
+
+:::caution
+
+For now VRC Constraints only exist in a Beta SDK and a Beta version of the game, and they still have some crashing issues. These might be resolved once the Update goes live. If any performance characteristics change between this Beta and the release, the numbers below will be updated.
+
+:::
+
+
+
+
+Their frame time is a lot worse in the unity editor than in game, which is why I sadly don’t have any graphs, but I do have valuable data:
+
+- VRC Constraints cost about 0.25 ms of frame time per 1000 active VRC Constraints, no matter how many sources there are.
+	- Note that this number is at a depth of 1. At a depth of 20, it would be about 0.27 ms, and at a depth of 100 it would be 0.5 ms. Most people won’t have issues with depth getting this high, but be mindful that high depth can slow things down.
+- Unity Constraints that are auto converted to VRC Constraints in game cost about 0.75 ms per 1000 active Constraints. This means they are still better than Unity Constraints without conversion, but converting to VRC Constraints in editor is worth it for the frame time improvement.
 ---
 
 
@@ -639,4 +672,4 @@ If you have other things you want me to benchmark or you think I made a mistake,
 
 
 ---
-<RightAlignedText>Last Updated: 04 June 2024 19:53:00</RightAlignedText>
+<RightAlignedText>Last Updated: 14 July 2024 21:44:00</RightAlignedText>
