@@ -2,7 +2,7 @@
 title: Network Sync
 sidebar_position: 1
 slug: Network-Sync
-last_edited: 2024-04-03T08:05:00.000Z
+last_edited: 2024-08-09T13:52:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -135,9 +135,9 @@ An example of this can be seen on the right, where the local side processes all 
 Generally, most objects don’t need to have their position synced, as they are connected to your body. However, any object that gets world dropped using a [World Constraint](https://github.com/VRLabs/World-Constraint) will not appear in the right spot for late joiners. 
 
 
-This can be remedied by using one of VRLabs’ Sync packages. Right now the only publicly available one is the [15-Bit-Position-Rotation-Networking](https://github.com/VRLabs/15-Bits-Position-Rotation-Networking) package, or [Juzo’s World Sync](https://github.com/JuzoVR/WorldSync), though that one can only be used through the Non-Destructive Avatar Systems VRCFury and Modular Avatar, so it can’t be fully installed in the editor.
+This can be remedied by using a sync package like [VRLabs’ Custom Object Sync](https://github.com/VRLabs/Custom-Object-Sync) or [Juzo’s World Sync](https://github.com/JuzoVR/WorldSync), (though that one can only be used through the Non-Destructive Avatar Systems VRCFury and Modular Avatar, so it can’t be fully installed in the editor).
 
 
 
 ---
-<RightAlignedText>Last Updated: 03 April 2024 08:05:00</RightAlignedText>
+<RightAlignedText>Last Updated: 09 August 2024 13:52:00</RightAlignedText>
