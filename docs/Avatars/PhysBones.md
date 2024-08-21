@@ -2,7 +2,7 @@
 title: Phys Bones
 sidebar_position: 11
 slug: PhysBones
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2024-08-21T20:39:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -704,7 +704,7 @@ The GameObject to apply this Phys Bone to. If left empty, will apply the Phys Bo
 
 - **Sphere**: Is a Sphere, defined by a Radius, in Meters
 - **Capsule**: Is a Capsule (two half spheres and a cylinder), defined by a Height (the height of the cylinder, in Meters) and a Radius (the radius of both the half spheres and the cylinder, in Meters)
-- **Plane**: Is an infinitely large plane on the X and Z axes. It faces the +Y direction
+- **Plane**: Is an infinitely large plane on the X and Z axes. It faces the +Y direction.
 
 
 Note that all of these shapes are affected by the Position, Rotation and Scale of the transform they are on, as well as having a global Position and Rotation field themselves as well
@@ -740,4 +740,4 @@ Whether or not this Phys Bone Collider should ignore the cylinders connecting Ph
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 21 August 2024 20:39:00</RightAlignedText>
