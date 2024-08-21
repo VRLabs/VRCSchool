@@ -704,7 +704,7 @@ The GameObject to apply this Phys Bone to. If left empty, will apply the Phys Bo
 
 - **Sphere**: Is a Sphere, defined by a Radius, in Meters
 - **Capsule**: Is a Capsule (two half spheres and a cylinder), defined by a Height (the height of the cylinder, in Meters) and a Radius (the radius of both the half spheres and the cylinder, in Meters)
-- **Plane**: Is a 1m x 1m plane on the XZ axis
+- **Plane**: Is an infinitely large plane on the X and Z axes. It faces the +Y direction
 
 
 Note that all of these shapes are affected by the Position, Rotation and Scale of the transform they are on, as well as having a global Position and Rotation field themselves as well
