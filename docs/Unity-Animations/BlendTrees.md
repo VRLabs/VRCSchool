@@ -2,7 +2,7 @@
 title: Blend Trees
 sidebar_position: 8
 slug: BlendTrees
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2024-10-28T21:16:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -207,7 +207,7 @@ This is beneficial for character controllers or aim controllers, not for direct 
 ---
 
 
-### 2D Freeform Directional / 2D **Freeform Cartesian** {#70f974b1bd8d4c488452a580ecf2e825}
+### 2D Freeform Directional / 2D Freeform Cartesian {#70f974b1bd8d4c488452a580ecf2e825}
 
 
 2 Dimensional Freeform Directional (2D Freeform Directional) / 2 Dimensional Freeform Cartesian (2D Freeform Cartesian)’s inner workings are based on chapter 6.3 and 6.3.1 of the following paper: [https://runevision.com/thesis/rune_skovbo_johansen_thesis.pdf](https://runevision.com/thesis/rune_skovbo_johansen_thesis.pdf).
@@ -275,4 +275,4 @@ Example, you have one clip with length 1 and speed 2, and another clips with len
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 28 October 2024 21:16:00</RightAlignedText>

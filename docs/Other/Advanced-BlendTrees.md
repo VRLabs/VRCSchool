@@ -2,7 +2,7 @@
 title: Advanced Blend Tree Techniques
 sidebar_position: 4
 slug: Advanced-BlendTrees
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2024-10-28T21:19:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -687,7 +687,7 @@ $$
 
 
 
-So this means that since our `S``moothAmount` is always between 0 and 1, our value would be: 
+So this means that since our `SmoothAmount` is always between 0 and 1, our value would be: 
 
 
 
@@ -709,7 +709,7 @@ $SmoothedValue = Value * (1-SmoothAmount) + SmoothedValue * SmoothAmount$
 So the higher `SmoothAmount` is, the more it will use the old value instead of the new one, so it’s gonna “lag behind” more. Feel free to try this yourself to get a feel for what this value does. 
 
 
-Example templates can be downloaded from [Smoothing (Exponential)](https://notes.sleightly.dev/justsleightly/Smoothing-Exponential-019e9e69f617451dabd8d64554e09671), [Smoothed Float (Full)](https://notes.sleightly.dev/justsleightly/Smoothed-Float-Full-c3a1c86b492b4a23bf230f3549ec5e7c) and [Smoothed Float (Half)](https://notes.sleightly.dev/justsleightly/Smoothed-Float-Half-21fe757e52da4e589e2b30997f459f44).
+Example templates can be downloaded from [Smoothing (Exponential)](https://notes.sleightly.dev/justsleightly/Smoothing-Exponential-019e9e69f617451dabd8d64554e09671), [Smoothed Float (Full)](https://notes.sleightly.dev/justsleightly/Smoothed-Float-Full-c3a1c86b492b4a23bf230f3549ec5e7c), and [Smoothed Float (Half)](https://notes.sleightly.dev/justsleightly/Smoothed-Float-Half-21fe757e52da4e589e2b30997f459f44).
 
 
 ### Linear Smoothing {#382b25efca9e461cb97de8d819bdc057}
@@ -768,4 +768,4 @@ By adding a Frame Time Detection layer and multiplying `StepSize` by the frame t
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 28 October 2024 21:19:00</RightAlignedText>
