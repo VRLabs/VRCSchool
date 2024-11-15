@@ -2,7 +2,7 @@
 title: Unity/VRChat Performance Benchmarks
 sidebar_position: 0
 slug: Benchmarks
-last_edited: 2024-07-14T21:44:00.000Z
+last_edited: 2024-11-15T14:32:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/)
