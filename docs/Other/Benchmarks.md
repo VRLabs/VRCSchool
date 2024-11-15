@@ -391,16 +391,6 @@ However, setting the weight to 0 still makes it count for performance!
 
 VRC Constraints are components added by VRChat that will replace Unity Constraints in VRChat. They are meant to be more optimized and more feature complete versions of Unity Constraints, while still being a drop-in replacement. There is an auto conversion feature at the bottom of the VRCSDK. 
 
-
-:::caution
-
-For now VRC Constraints only exist in a Beta SDK and a Beta version of the game, and they still have some crashing issues. These might be resolved once the Update goes live. If any performance characteristics change between this Beta and the release, the numbers below will be updated.
-
-:::
-
-
-
-
 Their frame time is a lot worse in the unity editor than in game, which is why I sadly don’t have any graphs, but I do have valuable data:
 
 - VRC Constraints cost about 0.25 ms of frame time per 1000 active VRC Constraints, no matter how many sources there are.
