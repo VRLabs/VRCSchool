@@ -2,7 +2,7 @@
 title: Network Sync
 sidebar_position: 1
 slug: Network-Sync
-last_edited: 2024-08-09T13:52:00.000Z
+last_edited: 2025-02-06T09:22:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -33,7 +33,7 @@ However, sending the position of every object every frame would cost way too muc
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 
-![](./Network-Sync.ffbbcd4d-638b-4909-99eb-35fa203d4f6f.png)
+![](./Network-Sync.93eba7f9-8ddb-49fd-a5e1-097bccea50bd.png)
 
 
 </div><div className='notion-spacer'></div>
@@ -140,4 +140,4 @@ This can be remedied by using a sync package like [VRLabs’ Custom Object Sync]
 
 
 ---
-<RightAlignedText>Last Updated: 09 August 2024 13:52:00</RightAlignedText>
+<RightAlignedText>Last Updated: 06 February 2025 09:22:00</RightAlignedText>
