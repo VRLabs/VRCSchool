@@ -422,7 +422,7 @@ Contact senders and receivers are pretty straightforward as well, costing:
 
 :::tip
 
-These values seems to be roughly the same no matter the shape, type, parameter count, and collision tags
+These values seem to be roughly the same no matter the shape, type, parameter count, and collision tags
 
 :::
 
