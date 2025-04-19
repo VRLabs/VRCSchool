@@ -83,7 +83,7 @@ On the VRChat local avatar Animator, this setting defaults to 'Always Animate' f
 
 
 
-This allows one to do some logic to determine of a mesh is being rendered.
+This allows one to do some logic to determine if a mesh is being rendered.
 
 
 If you have a sub-Animator with one Mesh under it, and it’s set to Cull Completely, then it will stop animating when the Mesh is not looked at locally. One way this can be detected is by animating an object both in the FX controller and in this sub-Animator. The sub-Animator will overwrite the FX controller, unless the sub-Animator is culled, at which point the FX controller takes over. This is used, to toggle a VRC Contact Sender, which determines the value of a VRC Contact Receiver, whose parameter can be picked up in the FX layer. This is the inner workings of [VRLabs’ IsRendering Detection](https://github.com/VRLabs/IsRendering-Detection).
