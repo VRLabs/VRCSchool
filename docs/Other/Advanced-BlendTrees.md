@@ -2,7 +2,7 @@
 title: Advanced Blend Tree Techniques
 sidebar_position: 4
 slug: Advanced-BlendTrees
-last_edited: 2024-10-28T21:19:00.000Z
+last_edited: 2025-02-06T14:10:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -630,7 +630,7 @@ Then, the next layer is a Direct Blend Tree which performs two operations.
 
 
 
-First it sets `FrameTime` = `Time` - `LastTime` (see ). Lastly, it sets `LastTime` to `Time` so it can be used next frame.
+First it sets `FrameTime` = `Time` - `LastTime`. Lastly, it sets `LastTime` to `Time` so it can be used next frame.
 
 
 
@@ -768,4 +768,4 @@ By adding a Frame Time Detection layer and multiplying `StepSize` by the frame t
 
 
 ---
-<RightAlignedText>Last Updated: 28 October 2024 21:19:00</RightAlignedText>
+<RightAlignedText>Last Updated: 06 February 2025 14:10:00</RightAlignedText>

@@ -140,7 +140,7 @@ If the Unity Editor is not found, it will say `Unity Editor Not Found`, and here
 
 
 
-If you do have the Unity Editor installed, you can move on to  . 
+If you do have the Unity Editor installed, you can move on to [Create your VCC Project](/docs/Avatars/Uploading-An-Avatar) . 
 
 
 

@@ -2,7 +2,7 @@
 title: Sub-Animator Techniques
 sidebar_position: 8
 slug: Sub-Animator
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2025-05-25T22:14:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -91,4 +91,4 @@ If you have a sub-Animator with one Mesh under it, and it’s set to Cull Comple
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 25 May 2025 22:14:00</RightAlignedText>

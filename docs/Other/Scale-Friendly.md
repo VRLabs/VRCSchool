@@ -51,7 +51,7 @@ It seems that VRChat currently does not late sync scale parameters. All scale re
 Depending on the shader and what properties you use, some values may be absolute instead of relative, and not scale well with your avatar. Examples include many properties that utilize offsets from the surface/UV, such as vertex offset, point-to-point dissolve start/end values, and geometric dissolve offsets.
 
 
-You may be able to resolve some of these properties with avatar scale with , or in some cases even utilizing [vertex colors](https://www.poiyomi.com/general/textures-and-colors#vertex-colors).
+You may be able to resolve some of these properties with avatar scale with [Scale Friendly Animating](/docs/Other/Scale-Friendly).
 
 
 ---
@@ -123,7 +123,7 @@ The latest version of the [AV3 Emulator](https://github.com/lyuma/Av3Emulator) o
 ### Particle Systems {#3afc6815bcfd4829947900eede2a48ab}
 
 
-For particle systems to scale, their `Scaling Mode` needs to be set to `Hierarchy Scale`. However, even if this property is set, you might need to animate other properties with avatar scale, such as properties involving speed/gravity/velocity. How this is done is elaborated on in the  section.
+For particle systems to scale, their `Scaling Mode` needs to be set to `Hierarchy Scale`. However, even if this property is set, you might need to animate other properties with avatar scale, such as properties involving speed/gravity/velocity. How this is done is elaborated on in the [Scale Friendly Animating](/docs/Other/Scale-Friendly) section.
 
 
 ---
@@ -132,7 +132,7 @@ For particle systems to scale, their `Scaling Mode` needs to be set to `Hierarch
 ### Physics Components {#424514ad999e4dabab50eabbea734dab}
 
 
-Some properties of Rigidbodies and Joints may not scale as intended, and may require certain properties (such as limits/velocity) to be scaled along with avatar size. How this is done is elaborated on in the  section.
+Some properties of Rigidbodies and Joints may not scale as intended, and may require certain properties (such as limits/velocity) to be scaled along with avatar size. How this is done is elaborated on in the [Scale Friendly Animating](/docs/Other/Scale-Friendly) section.
 
 
 ---
@@ -141,7 +141,7 @@ Some properties of Rigidbodies and Joints may not scale as intended, and may req
 ### Audio Sources {#1535ebb070bd45d2bf0d4074db88b863}
 
 
-These components don’t scale very well either, and will likely require their falloff distance property to be scaled along with avatar size. How this is done is elaborated on in the  section.
+These components don’t scale very well either, and will likely require their falloff distance property to be scaled along with avatar size. How this is done is elaborated on in the [Scale Friendly Animating](/docs/Other/Scale-Friendly) section.
 
 
 ---

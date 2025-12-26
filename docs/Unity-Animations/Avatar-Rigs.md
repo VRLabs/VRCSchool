@@ -2,7 +2,7 @@
 title: Avatar Rigs
 sidebar_position: 9
 slug: Avatar-Rigs
-last_edited: 2024-03-31T08:54:00.000Z
+last_edited: 2025-12-26T13:35:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/), [JustSleightly](https://vrc.sleightly.dev/)
@@ -69,7 +69,7 @@ The `Skin Weights` dropdown has two options:
 
 
 - Standard (4 bones), which limits each vertex to be influenced by a maximum of 4 bone groups.
-- Custom, which allows for editing of the maximum amount of bones per vertex, and the minimum bone weight to be imported. (VRChat limits the bones per vertx to a maximum of 4)
+- Custom, which allows for editing of the maximum amount of bones per vertex, and the minimum bone weight to be imported. (VRChat limits the bones per vertex to a maximum of 4)
 
 
 </div><div className='notion-spacer'></div>
@@ -241,4 +241,4 @@ No Rig means no skinning, no bones, no imported animations, and no blendshapes. 
 
 
 ---
-<RightAlignedText>Last Updated: 31 March 2024 08:54:00</RightAlignedText>
+<RightAlignedText>Last Updated: 26 December 2025 13:35:00</RightAlignedText>

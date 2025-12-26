@@ -2,7 +2,7 @@
 title: Unity/VRChat Performance Benchmarks
 sidebar_position: 0
 slug: Benchmarks
-last_edited: 2024-11-15T14:35:00.000Z
+last_edited: 2025-05-25T22:14:00.000Z
 contributors: "[Jellejurre](https://jellejurre.dev/)"
 ---
 Contributors: [Jellejurre](https://jellejurre.dev/)
@@ -663,4 +663,4 @@ If you have other things you want me to benchmark or you think I made a mistake,
 
 
 ---
-<RightAlignedText>Last Updated: 15 November 2024 14:35:00</RightAlignedText>
+<RightAlignedText>Last Updated: 25 May 2025 22:14:00</RightAlignedText>
