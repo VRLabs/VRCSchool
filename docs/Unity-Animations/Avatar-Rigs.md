@@ -69,7 +69,7 @@ The `Skin Weights` dropdown has two options:
 
 
 - Standard (4 bones), which limits each vertex to be influenced by a maximum of 4 bone groups.
-- Custom, which allows for editing of the maximum amount of bones per vertex, and the minimum bone weight to be imported.
+- Custom, which allows for editing of the maximum amount of bones per vertex, and the minimum bone weight to be imported. (VRChat limits the bones per vertx to a maximum of 4)
 
 
 </div><div className='notion-spacer'></div>
@@ -123,7 +123,7 @@ Mapping:
 - **Clear**: Clears the whole avatar’s bone mapping
 - **Automap**: Automatically assign the whole avatar’s bone mapping based on name and location
 - **Save**: Save the current bone mapping to a file
-- **Load**: Load the current bone mapping to a file
+- **Load**: Load the current bone mapping from a file
 
 
 Pose:
